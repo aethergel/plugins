@@ -226,5 +226,28 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/QuestAWAY/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/QuestAWAY/latest.zip",
         "Changelog": ""
+    },
+    {
+        "Author": "Liza Carvelli",
+        "Name": "Workshoppa",
+        "InternalName": "Workshoppa",
+        "AssemblyVersion": "8.0",
+        "Punchline": "더 나은 지하공방 납품",
+        "Description": "",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "TestingAssemblyVersion": "",
+        "IconUrl": "https://plugins.carvel.li/icons/Workshoppa.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
+        "Changelog": ""
     }
 ]
