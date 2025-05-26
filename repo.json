@@ -1,11 +1,11 @@
-[
+ï»¿[
     {
         "Author": "foophoof",
         "Name": "Collector's Anxiety",
         "InternalName": "CollectorsAnxiety",
         "AssemblyVersion": "0.0.10",
-        "Punchline": "¹İÂ¦ÀÌ´Â °ÍµéÀ» ÀüºÎ ¼öÁıÇÏ°í ½ÍÀº ÀÌµéÀ» À§ÇÑ ÇÃ·¯±×ÀÎ.",
-        "Description": "¹İÂ¦ÀÌ´Â °ÍµéÀ» ÀüºÎ ¼öÁıÇÏ°í ½ÍÀº ÀÌµéÀ» À§ÇÑ ÇÃ·¯±×ÀÎ.",
+        "Punchline": "ë°˜ì§ì´ëŠ” ê²ƒë“¤ì„ ì „ë¶€ ìˆ˜ì§‘í•˜ê³  ì‹¶ì€ ì´ë“¤ì„ ìœ„í•œ í”ŒëŸ¬ê·¸ì¸.",
+        "Description": "ë°˜ì§ì´ëŠ” ê²ƒë“¤ì„ ì „ë¶€ ìˆ˜ì§‘í•˜ê³  ì‹¶ì€ ì´ë“¤ì„ ìœ„í•œ í”ŒëŸ¬ê·¸ì¸.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/foophoof/CollectorsAnxiety",
         "Tags": [
@@ -27,9 +27,9 @@
             "https://github.com/aethergel/plugins/blob/main/bin/CollectorsAnxiety/assets/image2.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/aethergel/CollectorsAnxiety/refs/heads/kr/assets/icon.png",
-        "DownloadLinkInstall": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
-        "DownloadLinkTesting": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkInstall": "https://github.com/aethergel/plugins/blob/main/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/aethergel/plugins/blob/main/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkTesting": "https://github.com/aethergel/plugins/blob/main/bin/CollectorsAnxiety/latest.zip",
         "Changelog": ""
     }
 ]
