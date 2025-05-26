@@ -249,5 +249,28 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
         "Changelog": ""
+    },
+    {
+        "Author": "maributt",
+        "Name": "fps limiter",
+        "InternalName": "fpslimiter",
+        "AssemblyVersion": "1.0.0.0",
+        "Punchline": "",
+        "Description": "프레임을 제한하세요",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/maributt/FPSLimiter",
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "TestingAssemblyVersion": "",
+        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
+        "Changelog": ""
     }
 ]
