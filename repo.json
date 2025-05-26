@@ -23,10 +23,10 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "ImageUrls": [
-            "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/images/image1.png",
-            "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/images/image2.png"
+            "https://github.com/aethergel/plugins/blob/main/bin/CollectorsAnxiety/assets/image1.png",
+            "https://github.com/aethergel/plugins/blob/main/bin/CollectorsAnxiety/assets/image2.png"
         ],
-        "IconUrl": "https://github.com/aethergel/CollectorsAnxiety/blob/kr/assets/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/aethergel/CollectorsAnxiety/refs/heads/kr/assets/icon.png",
         "DownloadLinkInstall": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
         "DownloadLinkUpdate": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
         "DownloadLinkTesting": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
