@@ -1,0 +1,35 @@
+[
+    {
+        "Author": "foophoof",
+        "Name": "Collector's Anxiety",
+        "InternalName": "CollectorsAnxiety",
+        "AssemblyVersion": "0.0.10",
+        "Punchline": "반짝이는 것들을 전부 수집하고 싶은 이들을 위한 플러그인.",
+        "Description": "반짝이는 것들을 전부 수집하고 싶은 이들을 위한 플러그인.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/foophoof/CollectorsAnxiety",
+        "Tags": [
+            "Collectibles"
+        ],
+        "CategoryTags": [
+            "Collectibles"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "TestingAssemblyVersion": "",
+        "ImageUrls": [
+            "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/images/image1.png",
+            "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/images/image2.png"
+        ],
+        "IconUrl": "https://github.com/aethergel/CollectorsAnxiety/blob/kr/assets/icon.png",
+        "DownloadLinkInstall": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkTesting": "https://github.com/aethergel/plugins/bin/CollectorsAnxiety/latest.zip",
+        "Changelog": ""
+    }
+]
