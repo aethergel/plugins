@@ -170,5 +170,33 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GlamourSpamRemover/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GlamourSpamRemover/latest.zip",
         "Changelog": ""
+    },
+    {
+        "Author": "Taurenkey (Puni.sh)",
+        "Name": "Saucy",
+        "InternalName": "Saucy",
+        "AssemblyVersion": "1.4.1.0",
+        "Punchline": "MGP 모으기가 너무 힘들 때.",
+        "Description": "골드 소서의 특정 미니게임을 자동화 합니다.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "TestingAssemblyVersion": "",
+        "IconUrl": "https://love.puni.sh/resources/saucy.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Saucy/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Saucy/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Saucy/latest.zip",
+        "Changelog": ""
     }
 ]
