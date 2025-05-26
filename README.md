@@ -4,8 +4,10 @@
 
 | 이름 | 설명 | 버전 | API | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 플러그인 | 4.0.2.10 | 11 | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 플러그인 | 1.6.8.0 | 11 | ◯ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.10 | 11 | ◯ |
+| [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 플러그인 | 2.6.1.2 | 11 | △ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.0.0 | 11 | ◯ |
 | [GlamourSpamRe..](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | 11 | ◯ |
 | [Heliosphere](https://github.com/heliosphere-xiv/plugin) | [heliosphere.app](https://heliosphere.app) 다운로드 도우미 | 3.0.9.0 | 11 | ✕ |
