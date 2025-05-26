@@ -26,7 +26,7 @@
             "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/assets/image1.png",
             "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/assets/image2.png"
         ],
-        "IconUrl": "https://raw.githubusercontent.com/aethergel/CollectorsAnxiety/refs/heads/kr/assets/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/aethergel/CollectorsAnxiety/kr/assets/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
