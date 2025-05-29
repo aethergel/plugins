@@ -12,12 +12,13 @@
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.0.0 | 11 | ◯ |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy)* | 채집 도우미 | 3.5.1.0 | 11 | △ |
 | [GlamourSpamRe..](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | 11 | ◯ |
+| [Globetrotter](https://git.anna.lgbt/anna/Globetrotter)* | 보물 지도 위치 표시 | 1.3.0 | 11 | ◯ |
 | [Heliosphere](https://github.com/heliosphere-xiv/plugin) | [heliosphere.app](https://heliosphere.app) 다운로드 도우미 | 3.0.9.0 | 11 | ✕ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 0.0.0.1 | 11 | ◯ |
 | [Price Insight](https://github.com/kouzukii/ffxiv-priceinsight)* | 호버메뉴에서 빠른 가격 확인 | 2.11.1. | 11 | △ |
-| [QuestAWAY]() | 지도, 미니맵의 아이콘 표시 커스텀 | 2.0.0.7 | 11 | △ |
+| [QuestAWAY](https://github.com/NightmareXIV/QuestAWAY) | 지도, 미니맵의 아이콘 표시 커스텀 | 2.0.0.7 | 11 | ◯ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.1.0 | 11 | ◯ |
-| [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.3 | 11 | ◯ |
+| [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.4 | 11 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 7.0 | 11 | ◯ |
 
-```* 기본 리포 플러그인과 충돌해 안 받아짐, 해결 필요```
+```* 기본 리포 플러그인과 충돌해 설치 불가능.. bin 폴더에서 다운받아 일시적으로 사용 가능```
