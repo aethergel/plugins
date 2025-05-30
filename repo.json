@@ -466,5 +466,28 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Globetrotter/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Globetrotter/latest.zip",
         "Changelog": ""
+    },
+    {
+        "Author": "кайт машина (Puni.sh)",
+        "Name": "AutoRetainer",
+        "InternalName": "AutoRetainer",
+        "AssemblyVersion": "4.4.4.0",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "TestingAssemblyVersion": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
+        "Changelog": ""
     }
 ]
