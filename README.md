@@ -20,6 +20,7 @@
 | [QuestAWAY](https://github.com/NightmareXIV/QuestAWAY) | 지도, 미니맵의 아이콘 표시 커스텀 | 2.0.0.7 | 11 | ◯ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.1.0 | 11 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.4 | 11 | ◯ |
+| [Visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.133 | 11 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 7.0 | 11 | ◯ |
 
 ```* 기본 리포 플러그인과 충돌해 설치 불가능.. bin 폴더에서 다운받아 일시적으로 사용 가능```

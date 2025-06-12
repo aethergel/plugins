@@ -489,5 +489,28 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
         "Changelog": ""
+    },
+    {
+        "Author": "veyn, croizat",
+        "Name": "Visland",
+        "InternalName": "visland",
+        "AssemblyVersion": "0.0.0.133",
+        "Punchline": "무인도 개척 활동을 자동화 합니다",
+        "Description": "자동 채집, 개척 공방 일정 설정, 기타 등등.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "TestingAssemblyVersion": "",
+        "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_visland/d3338f6ddbf54365e60fbdf8e85ea8f5abdb745f/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Visland/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Visland/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Visland/latest.zip",
+        "Changelog": ""
     }
 ]
