@@ -1,6 +1,6 @@
 ## plugins repo
 
-```https://raw.githubusercontent.com/aethergel/plugins/main/repo.json```
+```https://raw.githubusercontent.com/aethergel/plugins/api12/repo.json```
 
 | 이름 | 설명 | 버전 | API | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
