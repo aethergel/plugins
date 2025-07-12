@@ -23,13 +23,13 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/assets/image1.png",
-            "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/assets/image2.png"
+            "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/CollectorsAnxiety/assets/image1.png",
+            "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/CollectorsAnxiety/assets/image2.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/aethergel/CollectorsAnxiety/kr/assets/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/CollectorsAnxiety/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/CollectorsAnxiety/latest.zip",
         "Changelog": ""
     },
     {
@@ -53,9 +53,9 @@
         "LoadPriority": 0,
         "IconUrl": "https://repo.heliosphere.app/icon.png",
         "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Heliosphere/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Heliosphere/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Heliosphere/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Heliosphere/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Heliosphere/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Heliosphere/latest.zip",
         "AcceptsFeedback": false
     },
     {
@@ -73,9 +73,9 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/meta/image.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/TextAdvance/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/TextAdvance/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/TextAdvance/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/TextAdvance/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/TextAdvance/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/TextAdvance/latest.zip",
         "AcceptsFeedback": false
     },
     {
@@ -103,9 +103,9 @@
         "LoadPriority": 0,
         "DownloadCount": 0,
         "IconUrl": "https://raw.githubusercontent.com/LeonBlade/BDTHPlugin/main/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/BDTHPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/BDTHPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/BDTHPlugin/latest.zip"
     },
     {
         "Author": "salanth357",
@@ -136,9 +136,9 @@
             "https://raw.githubusercontent.com/aethergel/NoTypeSay/kr/image1.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/aethergel/NoTypeSay/kr/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/NoTypeSay/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/NoTypeSay/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/NoTypeSay/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/NoTypeSay/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/NoTypeSay/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/NoTypeSay/latest.zip",
         "Changelog": ""
     },
     {
@@ -166,9 +166,9 @@
             "https://raw.githubusercontent.com/aethergel/GlamourSpamRemover/master/Assets/image1.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Shezwick/GlamourSpamRemover/master/Assets/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GlamourSpamRemover/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GlamourSpamRemover/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GlamourSpamRemover/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/GlamourSpamRemover/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/GlamourSpamRemover/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/GlamourSpamRemover/latest.zip",
         "Changelog": ""
     },
     {
@@ -194,9 +194,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://love.puni.sh/resources/saucy.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Saucy/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Saucy/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Saucy/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Saucy/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Saucy/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Saucy/latest.zip",
         "Changelog": ""
     },
     {
@@ -222,9 +222,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/QuestAWAY/master/QuestAWAY/res/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/QuestAWAY/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/QuestAWAY/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/QuestAWAY/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/QuestAWAY/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/QuestAWAY/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/QuestAWAY/latest.zip",
         "Changelog": ""
     },
     {
@@ -245,9 +245,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://plugins.carvel.li/icons/Workshoppa.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Workshoppa/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Workshoppa/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Workshoppa/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Workshoppa/latest.zip",
         "Changelog": ""
     },
     {
@@ -268,9 +268,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/fpslimiter/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/fpslimiter/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/fpslimiter/latest.zip",
         "Changelog": ""
     },
     {
@@ -294,9 +294,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Artisan/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Artisan/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Artisan/latest.zip",
         "Changelog": ""
     },
     {
@@ -337,9 +337,9 @@
             "https://git.camora.dev/asriel/Craftimizer/raw/branch/main/Images/MacroEditor.png"
         ],
         "IconUrl": "https://git.camora.dev/asriel/Craftimizer/raw/branch/main/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Craftimizer/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Craftimizer/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Craftimizer/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Craftimizer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Craftimizer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Craftimizer/latest.zip",
         "Changelog": ""
     },
     {
@@ -369,9 +369,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GatherBuddy/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GatherBuddy/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GatherBuddy/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/GatherBuddy/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/GatherBuddy/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/GatherBuddy/latest.zip",
         "Changelog": ""
     },
     {
@@ -404,9 +404,9 @@
             "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/InventoryTools/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/InventoryTools/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/InventoryTools/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/InventoryTools/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/InventoryTools/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/InventoryTools/latest.zip",
         "Changelog": ""
     },
     {
@@ -439,9 +439,9 @@
             "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PriceInsight/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PriceInsight/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PriceInsight/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/PriceInsight/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/PriceInsight/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/PriceInsight/latest.zip",
         "Changelog": ""
     },
     {
@@ -462,9 +462,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://git.anna.lgbt/anna/Globetrotter/raw/branch/main/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Globetrotter/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Globetrotter/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Globetrotter/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Globetrotter/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Globetrotter/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Globetrotter/latest.zip",
         "Changelog": ""
     },
     {
@@ -485,9 +485,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/AutoRetainer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/AutoRetainer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/AutoRetainer/latest.zip",
         "Changelog": ""
     },
     {
@@ -508,9 +508,9 @@
         "DownloadCount": 0,
         "TestingAssemblyVersion": "",
         "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_visland/d3338f6ddbf54365e60fbdf8e85ea8f5abdb745f/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Visland/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Visland/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Visland/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Visland/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Visland/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/api11/bin/Visland/latest.zip",
         "Changelog": ""
     }
 ]
