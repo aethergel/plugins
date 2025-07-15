@@ -13,7 +13,7 @@
 | [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.12.0.3 | 7.2 | △ |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 플러그인 | 4.0.3.42 | 7.2 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.4.5.6 | 7.2 | △ |
-| [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 플러그인 | 1.6.8.0 | - | ◯ |
+| [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 플러그인 | 1.6.9.0 | 7.2 | ◯ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.10 | - | ◯ |
 | [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 플러그인 | 2.6.1.2 | - | △ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.1.0 | 7.2 | ◯ |

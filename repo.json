@@ -82,7 +82,7 @@
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
     "InternalName": "BDTHPlugin",
-    "AssemblyVersion": "1.6.8.0",
+    "AssemblyVersion": "1.6.9.0",
     "Punchline": "집 꾸미기가 쉬워졌습니다!.",
     "Description": "좌표 값을 가진 하우징 아이템을 어디에나 배치할 수 있습니다.",
     "ApplicableVersion": "any",
