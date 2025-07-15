@@ -273,32 +273,32 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
         "Changelog": ""
     },
-    {
-        "Author": "Taurenkey (Puni.sh)",
-        "Name": "Artisan",
-        "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.3.42",
-        "Punchline": "간단한 제작 플러그인 입니다.",
-        "Description": "올인원 제작 플러그인.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "ABC",
-        "Tags": [
-            "crafting"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "AcceptsFeedback": true,
-        "DownloadCount": 0,
-        "TestingAssemblyVersion": "",
-        "IconUrl": "https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
-        "Changelog": ""
-    },
+  {
+    "Author": "Taurenkey (Puni.sh)",
+    "Name": "Artisan",
+    "InternalName": "Artisan",
+    "AssemblyVersion": "4.0.3.42",
+    "Punchline": "간단한 제작 플러그인 입니다.",
+    "Description": "올인원 제작 플러그인.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "ABC",
+    "Tags": [
+      "crafting"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
+    "Changelog": ""
+  },
     {
         "Author": "Asriel",
         "Name": "Craftimizer",
