@@ -3,14 +3,14 @@
 ```https://raw.githubusercontent.com/aethergel/plugins/main/repo.json```
 
 > [!WARNING]
-> 기본 리포에 이미 존재하는 플러그인의 경우 차단되어 이 리포에서 직접 받을 수 없습니다.<br>해당하는 플러그인은 bin 폴더에서 다운받아 개발자 플러그인으로 사용해주세요.
+> 기본 리포에 이미 존재하는 플러그인의 경우 차단되어 인게임에서 설치불가 합니다.<br>해당하는 플러그인은 bin 폴더에서 다운받아 개발자 플러그인으로 사용해주세요.
 
 > [!NOTE] 
 > 아래 표의 버전은 기반으로 하는 원본 플러그인의 버전입니다.
 
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
-| [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.11.1.4 | - | △ |
+| [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.12.0.3 | 7.2 | △ |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 플러그인 | 4.0.3.42 | 7.2 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.4.4.0 | - | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 플러그인 | 1.6.8.0 | - | ◯ |
