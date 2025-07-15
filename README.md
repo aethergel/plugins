@@ -26,5 +26,5 @@
 | [QuestAWAY](https://github.com/NightmareXIV/QuestAWAY) | 지도, 미니맵의 아이콘 표시 커스텀 | 2.0.0.7 | - | ◯ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.1.0 | - | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.4 | - | ◯ |
-| [Visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.133 | - | ◯ |
+| [Visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.135 | 7.2 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 7.0 | - | ◯ |
