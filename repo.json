@@ -539,5 +539,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PandorasBox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PandorasBox/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "veyn",
+    "Name": "vnavmesh",
+    "InternalName": "vnavmesh",
+    "AssemblyVersion": "0.3.0.0",
+    "Punchline": "여기저기 돌아다녀요!",
+    "Description": "캐릭터를 자동으로 움직입니다, 장애물은 능숙하게 피하죠.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/vnavmesh/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/vnavmesh/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/vnavmesh/latest.zip",
+    "Changelog": ""
   }
 ]
