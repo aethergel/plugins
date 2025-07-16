@@ -23,7 +23,7 @@
 | [Globetrotter](https://git.anna.lgbt/anna/Globetrotter) | 보물 지도 위치 표시 | 1.3.0 | - | ◯ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 0.0.0.1 | - | ◯ |
 | [Pandora's Box](https://github.com/PunishXIV/PandorasBox) | QoL 기능 제공 | 1.6.3.6 | 7.2 | ✕ |
-| [Price Insight](https://github.com/kouzukii/ffxiv-priceinsight) | 호버메뉴에서 빠른 가격 확인 | 2.11.1. | - | △ |
+| [Price Insight](https://github.com/kouzukii/ffxiv-priceinsight) | 호버메뉴에서 빠른 가격 확인 | 2.11.2.0 | 7.2 | △ |
 | [QuestAWAY](https://github.com/NightmareXIV/QuestAWAY) | 지도, 미니맵의 아이콘 표시 커스텀 | 2.0.0.7 | - | ◯ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.2.1 | 7.2 | ◯ |
 | [SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 1.2.2.6 | 7.2 | ◯ |
