@@ -11,12 +11,12 @@
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
 | [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.12.0.3 | 7.2 | △ |
-| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 플러그인 | 4.0.3.42 | 7.2 | △ |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.3.42 | 7.2 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.4.5.6 | 7.2 | △ |
-| [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 플러그인 | 1.6.9.0 | 7.2 | ◯ |
+| [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.6.9.0 | 7.2 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.12 | 7.2 | ◯ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.10 | - | ◯ |
-| [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 플러그인 | 2.6.1.2 | - | △ |
+| [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 | 2.6.1.2 | - | △ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.1.0 | 7.2 | ◯ |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | 채집 도우미 | 3.5.1.0 | - | △ |
 | [GlamourSpamRemover](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | - | ◯ |
