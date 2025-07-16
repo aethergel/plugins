@@ -33,32 +33,6 @@
     "Changelog": ""
   },
   {
-    "Author": "Anna",
-    "Name": "Heliosphere",
-    "InternalName": "heliosphere-plugin",
-    "AssemblyVersion": "3.0.9.0",
-    "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://heliosphere.app/",
-    "Tags": [
-      "mods",
-      "modding",
-      "penumbra",
-      "textools"
-    ],
-    "DalamudApiLevel": 11,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://repo.heliosphere.app/icon.png",
-    "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Heliosphere/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Heliosphere/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Heliosphere/latest.zip",
-    "AcceptsFeedback": false
-  },
-  {
     "Author": "NightmareXIV",
     "Name": "TextAdvance",
     "InternalName": "TextAdvance",
