@@ -562,5 +562,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/vnavmesh/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/vnavmesh/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "Windmourn",
+    "Name": "SkipCutscene",
+    "InternalName": "SkipCutscene",
+    "AssemblyVersion": "1.2.2.6",
+    "Punchline": "'무작위 임무: 주요 퀘스트'에 포함되어 있는 임무들의 컷신을 건너뛰도록 도와줍니다.",
+    "Description": "'무작위 임무: 주요 퀘스트'에 포함되어 있는 임무들의 컷신을 건너뛰도록 도와줍니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/SkipCutscene/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/SkipCutscene/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/SkipCutscene/latest.zip",
+    "Changelog": ""
   }
 ]
