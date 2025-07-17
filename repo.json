@@ -119,7 +119,7 @@
     "Author": "Shezwick",
     "Name": "Glamour Spam Remover",
     "InternalName": "GlamourSpamRemover",
-    "AssemblyVersion": "1.7.2.0",
+    "AssemblyVersion": "1.7.2.1",
     "Punchline": "제곧내.",
     "Description": "추가 설정은 필요 없습니다, 설치하고 잊어버리세요.\n투영세트를 변경할 때마다 대화 창이 투영 메시지로 도배되는 게 짜증 났나요? 여기 해결책이 있답니다.",
     "ApplicableVersion": "any",
@@ -128,7 +128,7 @@
       "chat",
       "glamour"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -137,7 +137,7 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/aethergel/GlamourSpamRemover/master/Assets/image1.png"
+      "https://raw.githubusercontent.com/aethergel/GlamourSpamRemover/kr/Assets/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Shezwick/GlamourSpamRemover/master/Assets/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GlamourSpamRemover/latest.zip",

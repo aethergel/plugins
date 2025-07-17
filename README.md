@@ -19,7 +19,7 @@
 | [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 | 2.6.1.2 | - | △ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.1.0 | 7.2 | ◯ |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | 채집 도우미 | 3.5.1.0 | - | △ |
-| [GlamourSpamRemover](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | - | ◯ |
+| [GlamourSpamRemover](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | 7.2 | ◯ |
 | [Globetrotter](https://git.anna.lgbt/anna/Globetrotter) | 보물 지도 위치 표시 | 1.3.0 | - | ◯ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 0.0.0.1 | - | ◯ |
 | [Pandora's Box](https://github.com/PunishXIV/PandorasBox) | QoL 기능 제공 | 1.6.3.6 | 7.2 | ✕ |
