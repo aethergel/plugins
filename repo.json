@@ -320,9 +320,9 @@
     "Author": "Ottermandias",
     "Name": "GatherBuddy",
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.5.1.0",
-    "Punchline": "Simplify Gathering and Fishing.",
-    "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations\nvia item name and a UI to keep track of special uptime and weather conditions.",
+    "AssemblyVersion": "3.6.1.1",
+    "Punchline": "채집과 낚시를 손쉽게 만듭니다.",
+    "Description": "노드 위치, 낚시터, 특별한 등장 시간과 날씨 등을 추적하여 채집을 손쉽게 만듭니다.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "Tags": [
@@ -334,7 +334,7 @@
       "Alarms",
       "Timer"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
