@@ -618,5 +618,41 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ItemVendorLocation/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ItemVendorLocation/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "Caraxi & Ottermandias",
+    "Name": "ChatAlerts",
+    "InternalName": "ChatAlerts",
+    "AssemblyVersion": "2.2.1.0",
+    "Punchline": "Play sounds and highlight text based on defined filters.",
+    "Description": "Play sounds and highlight text based on defined filters.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ottermandias/ChatAlerts",
+    "Tags": [
+      "Chat",
+      "Highlight",
+      "Alert",
+      "Alarm",
+      "Ping",
+      "Roleplay",
+      "Sound"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "ImageUrls": [
+      "ABC",
+      "ABC"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/ChatAlerts/master/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ChatAlerts/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ChatAlerts/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ChatAlerts/latest.zip",
+    "Changelog": ""
   }
 ]
