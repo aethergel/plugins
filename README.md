@@ -10,6 +10,7 @@
 
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
+| [Accountant](https://github.com/Ottermandias/Accountant) | 집사수행, 에테르석, 할 일 등 남은시간 추적 | 1.8.0.2 | 7.2 | △ |
 | [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.12.0.3 | 7.2 | △ |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.3.42 | 7.2 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.4.5.6 | 7.2 | △ |

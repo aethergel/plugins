@@ -745,5 +745,41 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/RepairMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/RepairMe/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "Ottermandias",
+    "Name": "Accountant",
+    "InternalName": "Accountant",
+    "AssemblyVersion": "1.8.0.2",
+    "Punchline": "Character task timers.",
+    "Description": "Keep track of retainer, airship, submersible, aetherial wheel and crop timers\nas well as several miscellaneous tasks of multiple characters.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ottermandias/Accountant",
+    "Tags": [
+      "Airship",
+      "Gardening",
+      "Crops",
+      "Retainer",
+      "Multiple Characters",
+      "Account",
+      "Timer",
+      "Submarine",
+      "Submersible",
+      "Tasks",
+      "Cactpot"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Accountant/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Accountant/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Accountant/latest.zip",
+    "Changelog": ""
   }
 ]
