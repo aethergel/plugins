@@ -24,7 +24,7 @@
 | [GlamourSpamRemover](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | 7.2 | ◯ |
 | [Globetrotter](https://git.anna.lgbt/anna/Globetrotter) | 보물 지도 위치 표시 | 1.3.1 | 7.2 | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.10.0.0 | 7.2 | ◯ |
-| [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 0.0.0.1 | - | ◯ |
+| [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.0.0 | 7.2 | ◯ |
 | [Pandora's Box](https://github.com/PunishXIV/PandorasBox) | QoL 기능 제공 | 1.6.3.6 | 7.2 | ✕ |
 | [Price Insight](https://github.com/kouzukii/ffxiv-priceinsight) | 호버메뉴에서 빠른 가격 확인 | 2.11.2.0 | 7.2 | △ |
 | [QuestAWAY](https://github.com/NightmareXIV/QuestAWAY) | 지도, 미니맵의 아이콘 표시 커스텀 | 2.0.0.8 | 7.2 | ◯ |
