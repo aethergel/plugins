@@ -31,6 +31,7 @@
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.2.1 | 7.2 | ◯ |
 | [SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 1.2.2.6 | 7.2 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.6 | 7.2 | ◯ |
+| [Tilted](https://github.com/meoiswa/TiltedPlugin) | 조건에 따라 카메라 앵글/거리 변경 | 4.2.0.0 | 7.2 | ✕ |
 | [Visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.135 | 7.2 | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_vnavmesh) | 경로 찾기 | 0.3.0.0 | 7.2 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 8.1 | 7.2 | ◯ |

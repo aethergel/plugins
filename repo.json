@@ -682,5 +682,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Chatter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Chatter/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "Meoiswa",
+    "Name": "Tilted",
+    "InternalName": "Tilted",
+    "AssemblyVersion": "4.2.0.0",
+    "Punchline": "Tilt the camera, not yourself.",
+    "Description": "Automatically adjusts the Third Person Camera Angle/Distance given certain conditions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/meoiswa/TiltedPlugin",
+    "Tags": [
+      "UI",
+      "tweak",
+      "camera",
+      "combat"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/meoiswa/TiltedPlugin/main/Tilted/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Tilted/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Tilted/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Tilted/latest.zip",
+    "Changelog": ""
   }
 ]
