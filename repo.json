@@ -711,5 +711,39 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Tilted/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Tilted/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "Chalkos",
+    "Name": "RepairMe",
+    "InternalName": "RepairMe",
+    "AssemblyVersion": "1.0.1.18",
+    "Punchline": "다시는 수리와 마테리아 정제를 잊지마세요!",
+    "Description": "장비 수리가 필요하거나 마테리아를 정제할 수 있을때 알려줍니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/chalkos/RepairMe",
+    "Tags": [
+      "Repair",
+      "Materia",
+      "Spiritbond",
+      "Alert",
+      "Condition",
+      "Gear"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/aethergel/RepairMe/kr/images/image1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/main/stable/RepairMe/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/RepairMe/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/RepairMe/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/RepairMe/latest.zip",
+    "Changelog": ""
   }
 ]
