@@ -654,5 +654,33 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ChatAlerts/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ChatAlerts/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "James Keesey",
+    "Name": "Chatter",
+    "InternalName": "Chatter",
+    "AssemblyVersion": "1.3.1.0",
+    "Punchline": "Saves and filters chats.",
+    "Description": "Allows for saving chat conversations, separated by groups of people and chat types.",
+    "ApplicableVersion": "1.3.1.0",
+    "RepoUrl": "https://github.com/jlkeesey/Chatter",
+    "Tags": [
+      "chat",
+      "Utility",
+      "cats"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/jlkeesey/Chatter/main/Chatter/chatter.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Chatter/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Chatter/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Chatter/latest.zip",
+    "Changelog": ""
   }
 ]

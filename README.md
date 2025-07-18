@@ -16,6 +16,7 @@
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.6.9.0 | 7.2 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.12 | 7.2 | ◯ |
 | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) | 대화 메시지 키워드 알림 | 2.2.1.0 | 7.2 | ✕ |
+| [Chatter](https://github.com/jlkeesey/Chatter) | 대화 로그 백업 | 1.3.1 | 7.2 | ✕ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.11 | 7.2 | ◯ |
 | [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 | 2.6.1.2 | - | △ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.1.0 | 7.2 | ◯ |
