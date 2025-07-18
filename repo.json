@@ -588,5 +588,35 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Cammy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Cammy/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "https://github.com/electr0sheep/ItemVendorLocation",
+    "Name": "Item Vendor Location",
+    "InternalName": "ItemVendorLocation",
+    "AssemblyVersion": "2.10.0.0",
+    "Punchline": "상점 아이템을 어디서 구매할 수 있는지 보여줍니다",
+    "Description": "상인의 위치를 표시하는 우클릭 메뉴 옵션을 추가합니다",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
+    "Tags": [
+      "item",
+      "vendor"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/aethergel/ItemVendorLocation/kr/Images/ContextMenu.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ItemVendorLocation/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ItemVendorLocation/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ItemVendorLocation/latest.zip",
+    "Changelog": ""
   }
 ]
