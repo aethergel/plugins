@@ -3,9 +3,9 @@
     "Author": "foophoof",
     "Name": "Collector's Anxiety",
     "InternalName": "CollectorsAnxiety",
-    "AssemblyVersion": "0.0.10",
-    "Punchline": "반짝이는 것들을 전부 수집하고 싶은 이들을 위한 플러그인.",
-    "Description": "반짝이는 것들을 전부 수집하고 싶은 이들을 위한 플러그인.",
+    "AssemblyVersion": "0.0.11",
+    "Punchline": "안녕 여러분, 유명 유튜버입니다. 혹시 수집가의 불안을 겪어본 적 있나요?",
+    "Description": "Collector's Anxiety는 어떤걸 가지고 있고, 어떤걸 가지고 있지 않은지 추적해 체크리스트 형식으로 보여주는 완벽주의자 혹은 뭔가 모으기를 좋아하는 플레이어를 위한 플러그인 입니다. 데이터는 게임에서 가져오며 수집품 정보는 실시간으로 갱신됩니다.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/foophoof/CollectorsAnxiety",
     "Tags": [
@@ -14,7 +14,7 @@
     "CategoryTags": [
       "Collectibles"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
