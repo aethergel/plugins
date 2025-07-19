@@ -808,7 +808,7 @@
   {
     "Author": "goat, bumped by Franz",
     "Name": "Character Data Sync",
-    "InternalName": "Dalamud.CharacterSyn",
+    "InternalName": "Dalamud.CharacterSync",
     "AssemblyVersion": "2.0.0.13",
     "Punchline": "당신의 메인 캐릭터 세이브 데이터를 다른 캐릭터에게도 동기화 하세요",
     "Description": "이 플러그인은 당신의 메인 캐릭터 세이브 데이터를 다른 캐릭터와 동기화하도록 도와줘요.\n\n인게임에서 메인 캐릭터를 정하고 게임을 재시작 하면 됩니다.",
