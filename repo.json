@@ -855,5 +855,41 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CharacterSelect/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CharacterSelect/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "Khloe Leclair",
+    "Name": "Gearset Helper Plugin",
+    "InternalName": "GearsetHelperPlugin",
+    "AssemblyVersion": "2.6.0.0",
+    "Punchline": "Display estimated stats with Examine, and export gear to Etro/Ariyala.",
+    "Description": "Displays extra information about a character's gearsets when Examine is open, and makes it easy to export gearsets to Etro or Ariyala.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KhloeLeclair/GearsetHelperPlugin",
+    "Tags": [
+      "UI",
+      "gearset",
+      "examine",
+      "etro",
+      "ariyala"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image1-cropped.png",
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image2-cropped.png",
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image3.png",
+      "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image4.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GearsetHelper/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GearsetHelper/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GearsetHelper/latest.zip",
+    "Changelog": ""
   }
 ]

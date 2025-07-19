@@ -24,6 +24,7 @@
 | [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 | 2.7.2.2 | 7.2 | △ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.1.0 | 7.2 | ◯ |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | 채집 도우미 | 3.6.1.1 | 7.2 | △ |
+| [GearsetHelper](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.6.0.0 | 7.2 | ✕ |
 | [GlamourSpamRemover](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | 7.2 | ◯ |
 | [Globetrotter](https://git.anna.lgbt/anna/Globetrotter) | 보물 지도 위치 표시 | 1.3.1 | 7.2 | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.10.0.0 | 7.2 | ◯ |
