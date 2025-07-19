@@ -16,6 +16,7 @@
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.4.5.6 | 7.2 | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.6.9.0 | 7.2 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.12 | 7.2 | ◯ |
+| [CharacterSelect](https://github.com/IcarusXIV/Character-Select-) | 캐릭터 프리셋 선택 | 1.1.1.3 | 7.2 | ✕ |
 | [CharacterSync](https://github.com/reiichi001/Dalamud.CharacterSync) | 캐릭터 세이브 데이터 동기화 | 2.0.0.13 | 7.2 | ◯ |
 | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) | 대화 메시지 키워드 알림 | 2.2.1.0 | 7.2 | ✕ |
 | [Chatter](https://github.com/jlkeesey/Chatter) | 대화 로그 백업 | 1.3.1 | 7.2 | ✕ |
