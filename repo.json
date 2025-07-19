@@ -781,5 +781,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Accountant/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Accountant/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "JustBackup",
+    "InternalName": "JustBackup",
+    "AssemblyVersion": "1.1.1.1",
+    "Punchline": "Automatically backup your game and plugin configuration.",
+    "Description": "This plugin automatically backups your game and plugin configurations upon game/plugin starting.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/NightmareXIV/JustBackup",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/JustBackup/master/JustBackup/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/JustBackup/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/JustBackup/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/JustBackup/latest.zip",
+    "Changelog": ""
   }
 ]
