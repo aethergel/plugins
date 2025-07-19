@@ -23,6 +23,9 @@
 | [Chatter](https://github.com/jlkeesey/Chatter) | 대화 로그 백업 | 1.3.1 | 7.2 | ✕ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.11 | 7.2 | ◯ |
 | [Craftimizer](https://github.com/WorkingRobot/Craftimizer) | 제작 매크로 생성 | 2.7.2.2 | 7.2 | △ |
+| [ezFauxHollows](https://github.com/Glorou/EzFauxHollows) | 총당님의 환상반 도우미 | 1.5.0.0 | 7.2 | ◯ |
+| [ezMiniCactpot](https://github.com/MidoriKami/EzMiniCactpot) | 일일 복권 도우미 | 3.0.0.0 | 7.2 | ◯ |
+| [ezWondrousTails](https://github.com/MidoriKami/WondrousTailsSolver) | 쿠로수첩 도우미 | 3.2.2.0 | 7.2 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.1.0 | 7.2 | ◯ |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | 채집 도우미 | 3.6.1.1 | 7.2 | △ |
 | [GearsetHelper](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.6.0.0 | 7.2 | ✕ |
