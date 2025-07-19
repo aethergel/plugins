@@ -804,5 +804,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/JustBackup/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/JustBackup/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "goat, bumped by Franz",
+    "Name": "Character Data Sync",
+    "InternalName": "Dalamud.CharacterSyn",
+    "AssemblyVersion": "2.0.0.13",
+    "Punchline": "당신의 메인 캐릭터 세이브 데이터를 다른 캐릭터에게도 동기화 하세요",
+    "Description": "이 플러그인은 당신의 메인 캐릭터 세이브 데이터를 다른 캐릭터와 동기화하도록 도와줘요.\n\n인게임에서 메인 캐릭터를 정하고 게임을 재시작 하면 됩니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/reiichi001/Dalamud.CharacterSync",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://github.com/reiichi001/Dalamud.CharacterSync/raw/master/res/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CharacterSync/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CharacterSync/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CharacterSync/latest.zip",
+    "Changelog": ""
   }
 ]
