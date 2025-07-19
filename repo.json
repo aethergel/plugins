@@ -46,7 +46,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/meta/image.png",
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/TextAdvance/images/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/TextAdvance/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/TextAdvance/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/TextAdvance/latest.zip",
