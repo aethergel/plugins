@@ -1,0 +1,53 @@
+﻿[
+  {
+    "Author": "maributt",
+    "Name": "fps limiter",
+    "InternalName": "fpslimiter",
+    "AssemblyVersion": "1.0.2.0",
+    "Punchline": "",
+    "Description": "프레임을 제한하세요",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/maributt/FPSLimiter",
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/aethergel/fpslimiter/main/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/global/bin/fpslimiter/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/global/bin/fpslimiter/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": ""
+  },
+  {
+    "Author": "James Keesey",
+    "Name": "Chatter",
+    "InternalName": "Chatter",
+    "AssemblyVersion": "1.3.2.0",
+    "Punchline": "Saves and filters chats.",
+    "Description": "Allows for saving chat conversations, separated by groups of people and chat types.",
+    "ApplicableVersion": "1.3.2.0",
+    "RepoUrl": "https://github.com/jlkeesey/Chatter",
+    "Tags": [
+      "chat",
+      "Utility",
+      "cats"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/jlkeesey/Chatter/main/Chatter/chatter.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/global/bin/Chatter/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/global/bin/Chatter/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": ""
+  }
+]
