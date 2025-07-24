@@ -1,0 +1,38 @@
+,
+  {
+    "Author": "ABC",
+    "Name": "ABC",
+    "InternalName": "ABC",
+    "AssemblyVersion": "ABC",
+    "TestingAssemblyVersion": "",
+    "Punchline": "ABC",
+    "Description": "ABC",
+    "ApplicableVersion": "any",
+    "RepoUrl": "ABC",
+    "Tags": [
+        "ABC",
+        "ABC"
+    ],
+    "CategoryTags": [
+        "ABC",
+        "ABC"
+    ],
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "ImageUrls": [
+        "ABC",
+        "ABC"
+    ],
+    "IconUrl": "ABC",
+    "DownloadLinkInstall": "ABC",
+    "DownloadLinkUpdate": "ABC",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
+  }
