@@ -1050,5 +1050,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/YesAlready/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/YesAlready/latest.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "Lifestream",
+    "InternalName": "Lifestream",
+    "AssemblyVersion": "2.5.0.2",
+    "Punchline": "에테라이트 여행과 서버 여행을 빠르게 도와주는 플러그인.",
+    "Description": "- 한번의 클릭으로 서버 여행 및 에테라이트 여행하기\n- 지도에서 도시 내 에테라이트를 클릭하면 그 곳으로 텔레포 합니다",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Lifestream/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Lifestream/latest.zip",
+    "Changelog": ""
   }
 ]
