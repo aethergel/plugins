@@ -2,6 +2,8 @@
 
 ```https://raw.githubusercontent.com/aethergel/plugins/main/repo.json```
 
+[글로벌 서버 리포](https://github.com/aethergel/plugins/tree/global)
+
 > [!WARNING]
 > 기본 리포에 이미 존재하는 플러그인의 경우 차단되어 인게임에서 설치불가 합니다.<br>해당하는 플러그인은 bin 폴더에서 다운받아 개발자 플러그인으로 사용해주세요.
 
