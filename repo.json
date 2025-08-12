@@ -251,7 +251,7 @@
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.3.44",
+    "AssemblyVersion": "4.0.3.45",
     "Punchline": "간단한 제작 플러그인 입니다.",
     "Description": "올인원 제작 플러그인.",
     "ApplicableVersion": "any",
@@ -271,7 +271,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": "Raphael 계산기 업데이트"
+    "Changelog": ""
   },
   {
     "Author": "Asriel",

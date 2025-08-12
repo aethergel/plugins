@@ -19,7 +19,7 @@
 | [Accountant](https://github.com/Ottermandias/Accountant) | 집사수행, 에테르석, 할 일 등 남은시간 추적 | 1.8.0.2 | 7.2 | △ |
 | [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.12.0.3 | 7.2 | △ |
 | [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.8 | 7.2 | ◯ |
-| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.3.45 | 7.2 | △ |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.3.45 | 7.21 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.4.5.6 | 7.2 | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.6.9.0 | 7.2 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.12 | 7.2 | ◯ |
