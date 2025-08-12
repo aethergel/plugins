@@ -55,7 +55,7 @@
 | [Tilted](https://github.com/meoiswa/TiltedPlugin) | 조건에 따라 카메라 앵글/거리 변경 | 4.2.0.0 | 7.2 | ✕ |
 | [Visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.135 | 7.2 | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_vnavmesh) | 경로 찾기 | 0.3.0.0 | 7.2 | ◯ |
-| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 | 1.9.2.1 | 7.2 | ◯ |
+| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 | 1.11.0.0 | 7.21 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 8.1 | 7.2 | ◯ |
 | [Wotsit](https://github.com/goaaats/Dalamud.FindAnything) | 검색바 | 1.0.6.0 | 7.2 | ✕ |
 | [YesAlready](https://github.com/PunishXIV/YesAlready/) | 자동으로 예,아니오 선택 및 대화 넘기기 | 1.10.1.0 | 7.2 | ✕ |
