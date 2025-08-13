@@ -491,7 +491,7 @@
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Pandora's Box",
     "InternalName": "PandorasBox",
-    "AssemblyVersion": "1.6.3.6",
+    "AssemblyVersion": "1.6.3.7",
     "Punchline": "Do you dare to open Pandora's Box?",
     "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
     "ApplicableVersion": "any",
