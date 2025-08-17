@@ -39,7 +39,7 @@
 | [GearsetHelper](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.6.0.0 | 7.2 | ✕ |
 | [GlamourSpamRemover](https://github.com/Shezwick/GlamourSpamRemover) | 투영 관련 시스템 메시지 삭제 | 1.7.2.0 | 7.2 | ◯ |
 | [Globetrotter](https://git.anna.lgbt/anna/Globetrotter) | 보물 지도 위치 표시 | 1.3.1 | 7.2 | ◯ |
-| [ICE]() | 우주 개척 | 0.0.0.51 | 7.21 | ✕ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.0.51 | 7.21 | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.10.0.0 | 7.2 | ◯ |
 | [JustBackup](https://github.com/NightmareXIV/JustBackup) | 설정 자동 백업 | 1.1.1.1 | 7.2 | ✕ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.0.2 | 7.2 | ◯ |

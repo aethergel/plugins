@@ -1214,9 +1214,9 @@
     "Author": "Ice",
     "Name": "Ice's Cosmic Exploration",
     "InternalName": "ICE",
-    "AssemblyVersion": "0.0.0.51",
-    "Punchline": "The gathering companion that we all needed.",
-    "Description": "A little helper to go gather your heart out.",
+    "AssemblyVersion": "0.0.0.52",
+    "Punchline": "누가 달 탐사는 불가능하다 했던가요!",
+    "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
     "Tags": [
@@ -1234,6 +1234,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": ""
+    "Changelog": "한글화"
   }
 ]
