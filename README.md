@@ -42,7 +42,7 @@
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.0.51 | 7.21 | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.10.0.0 | 7.2 | ◯ |
 | [JustBackup](https://github.com/NightmareXIV/JustBackup) | 설정 자동 백업 | 1.1.1.1 | 7.2 | ✕ |
-| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.0.2 | 7.2 | ◯ |
+| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.1.15 | 7.21 | ◯ |
 | [NotificationMaster](https://github.com/NightmareXIV/NotificationMaster) | 게임 내 이벤트 알림 | 2.1.1.10 | 7.2 | △ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.0.0 | 7.2 | ◯ |
 | [Pandora's Box](https://github.com/PunishXIV/PandorasBox) | QoL 기능 제공 | 1.6.3.6 | 7.21 | ✕ |
