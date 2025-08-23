@@ -17,3 +17,4 @@
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.2.0 | 7.3 | ◯ |
+| [Chatter](https://github.com/jlkeesey/Chatter) | 대화 로그 백업 | 1.3.2.0 | 7.3 | ✕ |
