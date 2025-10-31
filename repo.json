@@ -136,5 +136,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Visland/latest.zip",
     "DownloadLinkTesting": "",
     "Changelog": ""
+  },
+  {
+    "Author": "UnknownX",
+    "Name": "Cammy",
+    "InternalName": "Cammy",
+    "AssemblyVersion": "2.1.0.13",
+    "Punchline": "간단한 카메라 설정 편집기",
+    "Description": "줌과 시야각을 조절할 수 있는 간단한 카메라 편집기입니다.\n이 플러그인은 줌핵이라는것을 알아두세요.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/UnknownX7/Cammy",
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Cammy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Cammy/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": ""
   }
 ]
