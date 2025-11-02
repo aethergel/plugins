@@ -23,4 +23,5 @@
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.7 | 7.3 | ◯ |
 | [Visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.137 | 7.3 | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_vnavmesh) | 경로 찾기 | 0.5.4.0 | 7.3 | ◯ |
+| [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 9.0 | 7.3 | ◯ |
 | [placeholder](https://github.com/aethergel/plugins) | placeholder | 0.0.0.0 | 7.3 | ✕ |
