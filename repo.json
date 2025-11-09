@@ -239,5 +239,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
     "DownloadLinkTesting": "",
     "Changelog": ""
+  },
+  {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.7.1.0",
+    "Punchline": "집 꾸미기가 쉬워졌습니다!.",
+    "Description": "좌표 값을 가진 하우징 아이템을 어디에나 배치할 수 있습니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "DownloadCount": 0,
+    "IconUrl": "https://raw.githubusercontent.com/LeonBlade/BDTHPlugin/main/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip"
   }
 ]
