@@ -308,8 +308,8 @@
     "Name": "IINACT",
     "InternalName": "IINACT",
     "AssemblyVersion": "2.9.4.4",
-    "Punchline": "",
-    "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
+    "Punchline": "파싱 플러그인",
+    "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marzent/IINACT",
     "Tags": [

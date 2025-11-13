@@ -22,7 +22,7 @@
 | [Browsingway](https://github.com/Styr1x/Browsingway) | 브라우저 오버레이 | 1.6.7.0 | 7.3 | △ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.13 | 7.3 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.2.0 | 7.3 | ◯ |
-| [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.9.4.4 | 7.3 | ✕ |
+| [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.9.4.4 | 7.3 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.0 | 7.3 | ◯ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.2.7 | 7.3 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.7 | 7.3 | ◯ |
