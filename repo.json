@@ -383,5 +383,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/SkipCutscene/latest.zip",
     "DownloadLinkTesting": "",
     "Changelog": ""
+  },
+  {
+    "Author": "Ice",
+    "Name": "Ice's Cosmic Exploration",
+    "InternalName": "ICE",
+    "AssemblyVersion": "0.0.73.25",
+    "Punchline": "달의 어두운 면에 오신 것을 환영합니다",
+    "Description": "",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+    "Tags": [
+      "Gatherers"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "",
+    "IconUrl": "https://raw.githubusercontent.com/LeontopodiumNivale14/Ices-Cosmic-Exploration/Development_Main/Data/Icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": ""
   }
 ]
