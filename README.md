@@ -27,6 +27,7 @@
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.73.25 | 7.3 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.9.4.4 | 7.3 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.0 | 7.3 | ◯ |
+| [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.2.0 | 7.3 | ◯ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.2.7 | 7.3 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.7 | 7.3 | ◯ |
 | [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 3.0.1.2 | 7.3 | ◯ |
