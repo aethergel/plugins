@@ -18,13 +18,13 @@
 | ------------- | ------------- | :---: | :---: | :---: |
 | [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.9 | 7.3 | ◯ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.5.3.1 | 7.3 | △ |
-| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.3.58 | 7.3 | △ |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.1 | 7.31 | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.7.1.0 | 7.3 | ◯ |
 | [Browsingway](https://github.com/Styr1x/Browsingway) | 브라우저 오버레이 | 1.6.7.0 | 7.3 | △ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.13 | 7.3 | ◯ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.12 | 7.3 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.2.0 | 7.3 | ◯ |
-| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.73.25 | 7.3 | ◯ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.73.25 | 7.31 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.9.4.4 | 7.3 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.0 | 7.3 | ◯ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.2.0 | 7.3 | ◯ |

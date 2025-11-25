@@ -26,11 +26,11 @@
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.3.58",
-    "Punchline": "간단한 제작 플러그인 입니다.",
-    "Description": "올인원 제작 플러그인.",
+    "AssemblyVersion": "4.0.4.1",
+    "Punchline": "간단한 제작 플러그인.",
+    "Description": "",
     "ApplicableVersion": "any",
-    "RepoUrl": "ABC",
+    "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "Tags": [
       "crafting"
     ],
@@ -46,7 +46,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": ""
+    "Changelog": "7.31"
   },
   {
     "Author": "NightmareXIV",
@@ -388,7 +388,7 @@
     "Author": "Ice",
     "Name": "Ice's Cosmic Exploration",
     "InternalName": "ICE",
-    "AssemblyVersion": "0.0.73.25",
+    "AssemblyVersion": "0.0.73.26",
     "Punchline": "달의 어두운 면에 오신 것을 환영합니다",
     "Description": "",
     "ApplicableVersion": "any",
@@ -408,7 +408,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": ""
+    "Changelog": "7.31"
   },
   {
     "Author": "NightmareXIV",
