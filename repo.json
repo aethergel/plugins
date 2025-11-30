@@ -388,7 +388,7 @@
     "Author": "Ice",
     "Name": "Ice's Cosmic Exploration",
     "InternalName": "ICE",
-    "AssemblyVersion": "0.0.73.26",
+    "AssemblyVersion": "0.0.73.27",
     "Punchline": "달의 어두운 면에 오신 것을 환영합니다",
     "Description": "",
     "ApplicableVersion": "any",
@@ -408,7 +408,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ICE/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": "7.31"
+    "Changelog": "번역 수정"
   },
   {
     "Author": "NightmareXIV",
