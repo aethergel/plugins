@@ -33,5 +33,5 @@
 | [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 3.0.1.2 | 7.3 | ◯ |
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.137 | 7.3 | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_vnavmesh) | 경로 찾기 | 0.5.4.0 | 7.3 | ◯ |
-| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 | 1.11.1.0 | 7.3 | ◯ |
+| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 | 1.11.2.0 | 7.31 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 9.0 | 7.3 | ◯ |
