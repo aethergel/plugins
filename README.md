@@ -18,7 +18,7 @@
 | ------------- | ------------- | :---: | :---: | :---: |
 | [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.9 | 7.3 | ◯ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 자동화 | 4.5.3.1 | 7.3 | △ |
-| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.1 | 7.31 | △ |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.8 | 7.31 | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.7.1.0 | 7.3 | ◯ |
 | [Browsingway](https://github.com/Styr1x/Browsingway) | 브라우저 오버레이 | 1.6.7.0 | 7.3 | △ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.13 | 7.3 | ◯ |
