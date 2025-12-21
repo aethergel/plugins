@@ -4,6 +4,7 @@
     "Name": "ABC",
     "InternalName": "ABC",
     "AssemblyVersion": "ABC",
+    "TestingAssemblyVersion": "",
     "Punchline": "ABC",
     "Description": "ABC",
     "ApplicableVersion": "any",
@@ -16,14 +17,14 @@
         "ABC",
         "ABC"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 0,
-    "TestingAssemblyVersion": "",
     "ImageUrls": [
         "ABC",
         "ABC"
@@ -32,5 +33,6 @@
     "DownloadLinkInstall": "ABC",
     "DownloadLinkUpdate": "ABC",
     "DownloadLinkTesting": "ABC",
-    "Changelog": "ABC"
+    "Changelog": "ABC",
+    "TestingChangelog": ""
 }
