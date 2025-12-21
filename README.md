@@ -21,6 +21,7 @@
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.8 | 7.31 | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.7.1.0 | 7.3 | ◯ |
 | [Browsingway](https://github.com/Styr1x/Browsingway) | 브라우저 오버레이 | 1.6.7.0 | 7.3 | △ |
+| [BypassEmote](https://github.com/Aspher0/BypassEmote) | 감정표현 잠금해제 | 1.6.2.0 | 7.31 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.13 | 7.3 | ◯ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.12 | 7.3 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.2.0 | 7.3 | ◯ |
