@@ -535,5 +535,30 @@
     "DownloadLinkTesting": "",
     "Changelog": "",
     "TestingChangelog": ""
+  },
+  {
+    "Author": "SoyaX",
+    "Name": "Doze Anywhere",
+    "InternalName": "DozeAnywhere",
+    "AssemblyVersion": "0.2.2.6",
+    "TestingAssemblyVersion": "",
+    "Punchline": "일단 누울 수만 있으면 그게 어디든 침대인거죠.",
+    "Description": "클라이언트 측에서만 작동하지는 않으니 주의하세요!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/DozeAnywhere/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/DozeAnywhere/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
   }
 ]

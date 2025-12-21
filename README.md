@@ -24,6 +24,7 @@
 | [BypassEmote](https://github.com/Aspher0/BypassEmote) | 감정표현 잠금해제 | 1.6.2.0 | 7.31 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.13 | 7.3 | ◯ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.12 | 7.3 | ◯ |
+| [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 | 0.2.2.6 | 7.31 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.2.0 | 7.3 | ◯ |
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.73.27 | 7.31 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.9.4.6 | 7.31 | ◯ |
