@@ -27,7 +27,7 @@
 | [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 | 0.2.2.6 | 7.31 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.2.0 | 7.3 | ◯ |
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.73.27 | 7.31 | ◯ |
-| [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.9.4.6 | 7.31 | ◯ |
+| [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.9.4.7 | 7.35 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.0 | 7.3 | ◯ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.2.0 | 7.3 | ◯ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 자동화 | 1.4.2.7 | 7.3 | ◯ |
