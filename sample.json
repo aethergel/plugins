@@ -1,5 +1,5 @@
 ,
-{
+  {
     "Author": "ABC",
     "Name": "ABC",
     "InternalName": "ABC",
@@ -32,7 +32,7 @@
     "IconUrl": "ABC",
     "DownloadLinkInstall": "ABC",
     "DownloadLinkUpdate": "ABC",
-    "DownloadLinkTesting": "ABC",
-    "Changelog": "ABC",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
     "TestingChangelog": ""
-}
+  }
