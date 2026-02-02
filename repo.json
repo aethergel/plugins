@@ -3,7 +3,7 @@
     "Author": "maributt",
     "Name": "fps limiter",
     "InternalName": "fpslimiter",
-    "AssemblyVersion": "1.0.3.4",
+    "AssemblyVersion": "1.0.3.45",
     "Punchline": "",
     "Description": "프레임을 제한하세요",
     "ApplicableVersion": "any",
@@ -20,7 +20,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/global/bin/fpslimiter/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/global/bin/fpslimiter/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": "절전 모드 - 휴식 지역 / 우주 행성 예외 옵션 추가"
+    "Changelog": "절전 모드 - 휴식 지역 / 낚시 중에는 예외 옵션 추가"
   },
   {
     "Author": "James Keesey",
