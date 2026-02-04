@@ -16,4 +16,6 @@
 
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.32 | 7.41 | △ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.5 | 7.41 | ◯ |
+| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.13 | 7.41 | ◯ |
