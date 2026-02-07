@@ -16,6 +16,7 @@
 
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
+| [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.10 | 7.41 | ◯ |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.32 | 7.41 | △ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.15 | 7.41 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.5 | 7.41 | ◯ |
