@@ -255,5 +255,28 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AntiAfkKick/latest.zip",
     "DownloadLinkTesting": "",
     "Changelog": ""
+  },
+  {
+    "Author": "KangasZ",
+    "Name": "SkipCutscene",
+    "InternalName": "SkipCutscene",
+    "AssemblyVersion": "3.0.1.4",
+    "TestingAssemblyVersion": "",
+    "Punchline": "'무작위 임무: 주요 퀘스트'에 포함되어 있는 임무들의 컷신을 건너뛰도록 도와줍니다.",
+    "Description": "'무작위 임무: 주요 퀘스트'에 포함되어 있는 임무들의 컷신을 건너뛰도록 도와줍니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/SkipCutscene/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/SkipCutscene/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": ""
   }
 ]
