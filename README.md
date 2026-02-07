@@ -17,5 +17,10 @@
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.32 | 7.41 | △ |
+| [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.15 | 7.41 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.5 | 7.41 | ◯ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.75.12 | 7.41 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.13 | 7.41 | ◯ |
+| [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.2.1 | 7.41 | ◯ |
+| [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.8 | 7.41 | ◯ |
+| [vnavmesh](https://github.com/awgil/ffxiv_vnavmesh) | 경로 찾기 | 1.2.2.5 | 7.41 | ◯ |
