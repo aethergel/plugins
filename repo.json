@@ -416,5 +416,33 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/ItemVendorLocation/latest.zip",
     "DownloadLinkTesting": "",
     "Changelog": ""
+  },
+  {
+    "Author": "Usagi",
+    "Name": "IINACT",
+    "InternalName": "IINACT",
+    "AssemblyVersion": "2.10.0.4",
+    "TestingAssemblyVersion": "",
+    "Punchline": "파싱 플러그인",
+    "Description": "",
+    "ApplicableVersion": "2026.02.06.0000.0000",
+    "RepoUrl": "https://github.com/marzent/IINACT",
+    "Tags": [
+      "parsing",
+      "plugin",
+      "ACT"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/IINACT/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/IINACT/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "7.41h"
   }
 ]
