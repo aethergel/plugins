@@ -26,7 +26,7 @@
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.4.32",
+    "AssemblyVersion": "4.0.4.38",
     "TestingAssemblyVersion": "",
     "Punchline": "간단한 제작 플러그인.",
     "Description": "",
@@ -47,7 +47,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": "",
+    "Changelog": "- Raphael은 이제 7레벨 이상의 제작자부터 사용 가능하도록 제한됩니다.\n- '신속한 혁신'은 더이상 매크로 생성 중 한단계로 취급되지 않습니다.\n- 목록 편집기의 제작법 드롭다운 메뉴에서 모두 추가하는 버튼이 추가되었습니다.\n- 소모품 목록에서 이제 개수가 표시됩니다.\n- Raphael 계산 중 긴급 중단 버튼이 추가되었습니다.\n- Raphael이 우주 안정된 솜씨를 사용할 수 있습니다.",
     "TestingChangelog": ""
   },
   {
