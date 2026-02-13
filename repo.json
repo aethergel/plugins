@@ -497,5 +497,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/AutoRetainer/latest.zip",
     "DownloadLinkTesting": "",
     "Changelog": ""
+  },
+  {
+    "Author": "Chalkos",
+    "Name": "Marketbuddy",
+    "InternalName": "Marketbuddy",
+    "AssemblyVersion": "ABC",
+    "TestingAssemblyVersion": "",
+    "Punchline": "적게 클릭하고, 많이 버세요!",
+    "Description": "",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/chalkos/Marketbuddy",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Marketbuddy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Marketbuddy/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
   }
 ]
