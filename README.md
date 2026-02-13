@@ -18,6 +18,7 @@
 | ------------- | ------------- | :---: | :---: | :---: |
 | [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.10 | 7.41 | ◯ |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.38 | 7.41 | △ |
+| [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.7.2.0 | 7.41 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.15 | 7.41 | ◯ |
 | [CBT](https://github.com/Jaksuhn/ffxiv-bundleoftweaks) | 편의 기능 | 69.138.0.0 | 7.41 | ✕ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.5 | 7.41 | ◯ |

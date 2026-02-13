@@ -26,7 +26,7 @@
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.4.38",
+    "AssemblyVersion": "4.0.4.39",
     "TestingAssemblyVersion": "",
     "Punchline": "간단한 제작 플러그인.",
     "Description": "",
@@ -47,7 +47,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Artisan/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": "- Raphael은 이제 7레벨 이상의 제작자부터 사용 가능하도록 제한됩니다.\n- '신속한 혁신'은 더이상 매크로 생성 중 한단계로 취급되지 않습니다.\n- 목록 편집기의 제작법 드롭다운 메뉴에서 모두 추가하는 버튼이 추가되었습니다.\n- 소모품 목록에서 이제 개수가 표시됩니다.\n- Raphael 계산 중 긴급 중단 버튼이 추가되었습니다.\n- Raphael이 우주 안정된 솜씨를 사용할 수 있습니다.",
+    "Changelog": "4.0.4.39\n- 선택 지역 기술 시전 딜레이 옵션이 추가되었습니다.\n4.0.3.34~4.0.3.38\n- Raphael은 이제 7레벨 이상의 제작자부터 사용 가능하도록 제한됩니다.\n- '신속한 혁신'은 더이상 매크로 생성 중 한단계로 취급되지 않습니다.\n- 목록 편집기의 제작법 드롭다운 메뉴에서 모두 추가하는 버튼이 추가되었습니다.\n- 소모품 목록에서 이제 개수가 표시됩니다.\n- Raphael 계산 중 긴급 중단 버튼이 추가되었습니다.\n- Raphael이 우주 안정된 솜씨를 사용할 수 있습니다.",
     "TestingChangelog": ""
   },
   {
@@ -444,5 +444,35 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/IINACT/latest.zip",
     "DownloadLinkTesting": "",
     "Changelog": "7.41h"
+  },
+  {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.7.2.0",
+    "TestingAssemblyVersion": "",
+    "Punchline": "집 꾸미기가 쉬워졌습니다!.",
+    "Description": "좌표 값을 가진 하우징 아이템을 어디에나 배치할 수 있습니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "DownloadCount": 0,
+    "IconUrl": "https://raw.githubusercontent.com/LeonBlade/BDTHPlugin/main/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/BDTHPlugin/latest.zip",
+    "DownloadLinkTesting": ""
   }
 ]
