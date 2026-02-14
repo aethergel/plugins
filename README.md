@@ -34,6 +34,7 @@
 | [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 14.205.31.0 | 7.41 | △ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 | 1.4.2.9 | 7.41 | ◯ |
 | [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 3.0.1.4 | 7.41 | ◯ |
+| [Sonar](https://discord.gg/K7y24Rr) | 마물 전파 릴레이 | 14.741.0.1 | 7.41 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.8 | 7.41 | ◯ |
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 자동화 | 0.0.0.141 | 7.41 | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_vnavmesh) | 경로 찾기 | 1.2.2.5 | 7.41 | ◯ |
