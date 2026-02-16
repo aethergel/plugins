@@ -190,7 +190,7 @@
     "Author": "veyn",
     "Name": "vnavmesh",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "1.2.2.5",
+    "AssemblyVersion": "1.2.2.6",
     "TestingAssemblyVersion": "",
     "Punchline": "여기저기 돌아다녀요!",
     "Description": "캐릭터를 자동으로 움직입니다, 장애물은 능숙하게 피하죠.",
