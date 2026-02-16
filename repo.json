@@ -625,5 +625,43 @@
     "DownloadLinkTesting": "",
     "Changelog": "추가 정보는 다음의 웹사이트를 참고하세요 https://news.ffxivsonar.com",
     "TestingChangelog": ""
+  },
+  {
+    "Author": "Khloe Leclair",
+    "Name": "Gearset Helper Plugin",
+    "InternalName": "GearsetHelperPlugin",
+    "AssemblyVersion": "2.8.0.0",
+    "TestingAssemblyVersion": "",
+    "Punchline": "캐릭터의 능력치를 자세히 알아보고, 외부 웹사이트에도 내보냅니다.",
+    "Description": "",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KhloeLeclair/GearsetHelperPlugin",
+    "Tags": [
+    "UI",
+    "gearset",
+    "examine",
+    "etro",
+    "ariyala"
+    ],
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "ImageUrls": [
+    "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image1-cropped.png",
+    "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image2-cropped.png",
+    "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image3.png",
+    "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/image4.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GearsetHelperPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GearsetHelperPlugin/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
   }
 ]
