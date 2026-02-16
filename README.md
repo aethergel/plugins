@@ -25,7 +25,7 @@
 | [CBT](https://github.com/Jaksuhn/ffxiv-bundleoftweaks) | 편의 기능 | 69.138.0.0 | 7.41 | ✕ |
 | [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 | 0.2.2.7 | 7.41 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.6 | 7.41 | ◯ |
-| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.75.12 | 7.41 | ◯ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.75.13 | 7.41 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.10.0.3 | 7.41h | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.10.0.10 | 7.41 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.13 | 7.41 | ◯ |
