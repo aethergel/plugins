@@ -663,5 +663,40 @@
     "DownloadLinkTesting": "",
     "Changelog": "",
     "TestingChangelog": ""
+  },
+  {
+    "Author": "foophoof",
+    "Name": "Collector's Anxiety",
+    "InternalName": "CollectorsAnxiety",
+    "AssemblyVersion": "0.0.13",
+    "TestingAssemblyVersion": "",
+    "Punchline": "안녕 여러분, 유명 유튜버입니다. 혹시 수집가의 불안을 겪어본 적 있나요?",
+    "Description": "Collector's Anxiety는 어떤걸 가지고 있고, 어떤걸 가지고 있지 않은지 추적해 체크리스트 형식으로 보여주는 완벽주의자 혹은 뭔가 모으기를 좋아하는 플레이어를 위한 플러그인 입니다. 데이터는 게임에서 가져오며 수집품 정보는 실시간으로 갱신됩니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/foophoof/CollectorsAnxiety",
+    "Tags": [
+        "Collectibles"
+    ],
+    "CategoryTags": [
+        "Collectibles"
+    ],
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "ImageUrls": [
+        "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/assets/image1.png",
+        "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/assets/image2.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/assets/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/CollectorsAnxiety/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
   }
 ]

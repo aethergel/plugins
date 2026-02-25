@@ -23,6 +23,7 @@
 | [BypassEmote](https://github.com/Aspher0/BypassEmote) | 감정표현 잠금해제 | 1.6.6.0 | 7.41 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.0.15 | 7.41 | ◯ |
 | [CBT](https://github.com/Jaksuhn/ffxiv-bundleoftweaks) | 편의 기능 | 69.138.0.0 | 7.41 | ✕ |
+| [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.13 | 7.41 | ◯ |
 | [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 | 0.2.2.7 | 7.41 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.6 | 7.41 | ◯ |
 | [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41 | ◯ |
