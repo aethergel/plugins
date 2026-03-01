@@ -68,7 +68,7 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 0,
-    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Lifestream/latest.zip",
     "DownloadLinkTesting": "",
