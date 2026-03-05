@@ -757,5 +757,37 @@
     "DownloadLinkTesting": "",
     "Changelog": "",
     "TestingChangelog": ""
+  },
+  {
+    "Author": "Aireil",
+    "Name": "FF Logs Viewer",
+    "InternalName": "FFLogsViewer",
+    "AssemblyVersion": "2.4.2.3",
+    "TestingAssemblyVersion": "",
+    "Punchline": "인게임에서 딱지 색을 확인합니다.",
+    "Description": "인게임에서 딱지 색을 확인합니다. 우클릭 메뉴로 타인의 로그를 확인합니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+    "Tags": [
+    "FFLogs"
+    ],
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "ImageUrls": [
+        "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
+    "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
+    ],
+    "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/FFLogsViewer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/FFLogsViewer/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
   }
 ]
