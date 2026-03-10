@@ -35,7 +35,7 @@
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.20 | 7.41 | ◯ |
 | [Marketbuddy](https://github.com/chalkos/Marketbuddy) | 장터 출품 도우미 | 0.2.4.1 | 7.41 | ◯ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.2.1 | 7.41 | ◯ |
-| [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 14.205.31.0 | 7.41 | △ |
+| [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 14.206.35.1 | 7.41 | △ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 | 1.4.2.9 | 7.41 | ◯ |
 | [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 3.0.1.4 | 7.41 | ◯ |
 | [Sonar](https://discord.gg/K7y24Rr) | 마물 전파 릴레이 | 14.741.0.1 | 7.41 | ◯ |
