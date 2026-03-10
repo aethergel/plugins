@@ -26,7 +26,7 @@
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.13 | 7.41 | ◯ |
 | [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 | 0.2.2.7 | 7.41 | ◯ |
 | [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 | 2.4.2.3 | 7.41 | ◯ |
-| [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.6 | 7.41 | ◯ |
+| [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.8 | 7.41 | ◯ |
 | [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41 | ◯ |
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.76.20 | 7.41 | ◯ |
