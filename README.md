@@ -17,7 +17,7 @@
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | ------------- | ------------- | :---: | :---: | :---: |
 | [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.10 | 7.41 | ◯ |
-| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.38 | 7.41 | △ |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.4.50 | 7.41 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 도우미 | 4.5.5.9 | 7.41 | △ |
 | [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 | 1.7.2.0 | 7.41 | ◯ |
 | [BypassEmote](https://github.com/Aspher0/BypassEmote) | 감정표현 잠금해제 | 1.6.6.0 | 7.41 | ◯ |
