@@ -421,11 +421,11 @@
     "Author": "Usagi",
     "Name": "IINACT",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.10.0.4",
+    "AssemblyVersion": "2.10.0.7",
     "TestingAssemblyVersion": "",
     "Punchline": "파싱 플러그인",
     "Description": "",
-    "ApplicableVersion": "2026.02.06.0000.0000",
+    "ApplicableVersion": "2026.03.07.0000.0000",
     "RepoUrl": "https://github.com/marzent/IINACT",
     "Tags": [
       "parsing",
@@ -443,7 +443,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/IINACT/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/IINACT/latest.zip",
     "DownloadLinkTesting": "",
-    "Changelog": "7.41h"
+    "Changelog": "7.45"
   },
   {
     "Author": "LeonBlade",
