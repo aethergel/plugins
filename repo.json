@@ -703,7 +703,7 @@
     "Author": "NightmareXIV",
     "Name": "Stylist",
     "InternalName": "Stylist",
-    "AssemblyVersion": "1.0.0.13",
+    "AssemblyVersion": "1.0.0.14",
     "TestingAssemblyVersion": "",
     "Punchline": "장비 매니저",
     "Description": "장비세트 구성을 최적화 해주는 장비세트 매니저입니다.\n한번의 명령어 입력으로 장비세트의 구성을 최적화 할 수 있습니다.",
