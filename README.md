@@ -27,7 +27,7 @@
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.3.8 | 7.41 | ◯ |
 | [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41 | ◯ |
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
-| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.76.20 | 7.41 | ◯ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.76.24 | 7.45 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.10.0.6 | 7.45 | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.10.0.10 | 7.41 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.20 | 7.41 | ◯ |
@@ -40,5 +40,5 @@
 | [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 | 1.0.0.14 | 7.41 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.2.4.8 | 7.41 | ◯ |
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 | 0.0.0.141 | 7.41 | ◯ |
-| [vnavmesh](https://github.com/awgil/ffxiv_vnavmesh) | 경로 찾기 | 1.2.2.6 | 7.41 | ◯ |
+| [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 | 1.2.2.6 | 7.41 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 9.2 | 7.41 | ◯ |
