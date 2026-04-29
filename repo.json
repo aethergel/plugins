@@ -796,7 +796,7 @@
         "Name": "Wholist",
         "InternalName": "Wholist",
         "AssemblyVersion": "1.11.3.0",
-        "TestingAssemblyVersion": "",
+        "TestingAssemblyVersion": "1.11.3.1",
         "Punchline": "멋진 방식으로 근처의 플레이어를 표시합니다, 월드 오브 워크래프트의 \"/who\" 명령어로부터 영감을 받았습니다.",
         "Description": "멋진 방식으로 근처의 플레이어를 표시합니다, 월드 오브 워크래프트의 \"/who\" 명령어로부터 영감을 받았습니다\n\n기능:\n- HUD의 일부가 될 수 있도록 크기 조절도 가능한 미니멀리스틱한 인터페이스\n- 살펴보기, 로드스톤 검색 등의 기능을 포함한 플레이어 우클릭 메뉴\n- 사용자설정 가능한 색상 & 동작\n- 무작위 모험가 카드 표시 명령어\n- 서버 정보 바에 근처 플레이어 수 표시\n\n이 플러그인은 PvP 임무 중에는 사용할 수 없음을 알아주세요.",
         "ApplicableVersion": "any",
@@ -809,7 +809,7 @@
             "Social"
         ],
         "DalamudApiLevel": 14,
-        "TestingDalamudApiLevel": 14,
+        "TestingDalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -823,7 +823,7 @@
         "IconUrl": "https://raw.githubusercontent.com/Blooym/Wholist/main/.assets/Icons/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Wholist/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Wholist/latest.zip",
-        "DownloadLinkTesting": "",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Wholist/test/latest.zip",
         "Changelog": "",
         "TestingChangelog": ""
     }
