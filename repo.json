@@ -19,7 +19,7 @@
         "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/1.0.3.9.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/test/latest.zip",
         "Changelog": ""
     },
     {
