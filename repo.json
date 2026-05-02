@@ -141,7 +141,7 @@
         "Author": "UnknownX",
         "Name": "Cammy",
         "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.15",
+        "AssemblyVersion": "2.1.1.1",
         "TestingAssemblyVersion": "",
         "Punchline": "간단한 카메라 설정 편집기",
         "Description": "줌과 시야각을 조절할 수 있는 간단한 카메라 편집기입니다.\n이 플러그인은 줌핵이라는것을 알아두세요.",
@@ -150,7 +150,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -450,7 +450,7 @@
         "Author": "LeonBlade",
         "Name": "Burning Down the House",
         "InternalName": "BDTHPlugin",
-        "AssemblyVersion": "1.7.2.0",
+        "AssemblyVersion": "1.7.3.1",
         "TestingAssemblyVersion": "",
         "Punchline": "집 꾸미기가 쉬워졌습니다!.",
         "Description": "좌표 값을 가진 하우징 아이템을 어디에나 배치할 수 있습니다.",
@@ -465,7 +465,7 @@
             "furnishing",
             "LeonBlade"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
