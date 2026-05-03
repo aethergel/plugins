@@ -341,7 +341,7 @@
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Saucy",
         "InternalName": "Saucy",
-        "AssemblyVersion": "1.4.2.9",
+        "AssemblyVersion": "1.5.0.0",
         "TestingAssemblyVersion": "",
         "Punchline": "MGP 모으기가 너무 힘들 때.",
         "Description": "골드 소서의 특정 미니게임을 자동화 합니다.",
@@ -352,7 +352,7 @@
             "mgp",
             "automation"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
