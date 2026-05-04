@@ -30,7 +30,7 @@
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.76.24 | 7.45 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.10.1.0 | 7.45h | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.14.0.0 | 7.5 | ◯ |
-| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.3.20 | 7.41 | ◯ |
+| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.5 | 7.5 | ◯ |
 | [Marketbuddy](https://github.com/chalkos/Marketbuddy) | 장터 출품 도우미 | 0.2.4.1 | 7.41 | ◯ |
 | [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.2.1 | 7.41 | ◯ |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 마우스 올려 아이템 장터 게시판 가격 확인 | 2.11.5.0 | 7.5 | ◯ |
