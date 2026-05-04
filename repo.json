@@ -55,7 +55,7 @@
         "Author": "NightmareXIV",
         "Name": "Lifestream",
         "InternalName": "Lifestream",
-        "AssemblyVersion": "2.5.4.5",
+        "AssemblyVersion": "2.5.4.6",
         "TestingAssemblyVersion": "",
         "Punchline": "빠른 에테라이트 이동과 서버 여행을 도와주는 플러그인.",
         "Description": "- 한번의 클릭으로 에테라이트 이동 및 서버 여행\n- 지도에서 도시 내 에테라이트를 클릭해 빠르게 이동",
@@ -73,7 +73,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/Lifestream/latest.zip",
         "DownloadLinkTesting": "",
-        "Changelog": "",
+        "Changelog": "번역 수정",
         "TestingChangelog": ""
     },
     {
