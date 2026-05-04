@@ -392,7 +392,7 @@
         "Author": "https://github.com/electr0sheep/ItemVendorLocation",
         "Name": "Item Vendor Location",
         "InternalName": "ItemVendorLocation",
-        "AssemblyVersion": "2.10.0.0",
+        "AssemblyVersion": "2.14.0.0",
         "Punchline": "상인의 위치를 표시하는 우클릭 메뉴 옵션을 추가합니다",
         "Description": "",
         "ApplicableVersion": "any",
@@ -401,7 +401,7 @@
             "item",
             "vendor"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
