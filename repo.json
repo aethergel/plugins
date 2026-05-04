@@ -826,5 +826,42 @@
         "DownloadLinkTesting": "",
         "Changelog": "",
         "TestingChangelog": ""
+    },
+    {
+        "Author": "Kouzukii",
+        "Name": "Price Insight",
+        "InternalName": "PriceInsight",
+        "AssemblyVersion": "2.11.5.0",
+        "TestingAssemblyVersion": "",
+        "Punchline": "아이템의 장터 게시판 가격을 마우스만 올려 확인하세요!",
+        "Description": "아이템에 마우스를 올리면 NQ/HQ 아이템의 장터 게시판 가격과 최근 거래가 또한 표시합니다.\n가격 데이터는 Universalis.app 에서 불러오며 90분 간 캐시합니다.\n가격 데이터를 새로 불러오고 싶다면 마우스를 올린 채 ALT키를 누르세요.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Kouzukii/ffxiv-priceinsight",
+        "Tags": [
+            "marketboard",
+            "items",
+            "price"
+        ],
+        "CategoryTags": [
+            "ui",
+            "utility"
+        ],
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PriceInsight/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PriceInsight/latest.zip",
+        "DownloadLinkTesting": "",
+        "Changelog": "",
+        "TestingChangelog": ""
     }
 ]
