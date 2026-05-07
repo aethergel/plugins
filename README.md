@@ -26,6 +26,7 @@
 | [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 | 2.4.2.3 | 7.41 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.4.0 | 7.5 | ◯ |
 | [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41 | ◯ |
+| [HuntTrainAssistant](https://github.com/NightmareXIV/HuntTrainAssistant) | 마물런 도우미 | 1.0.2.15 | 7.5 | ◯ |
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.76.24 | 7.45 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.10.1.0 | 7.45h | ◯ |
@@ -37,7 +38,6 @@
 | [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 14.206.40.0 | 7.45 | △ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 | 1.5.0.0 | 7.5 | ◯ |
 | [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 3.0.1.4 | 7.41 | ◯ |
-| [Sonar](https://discord.gg/K7y24Rr) | 마물 전파 릴레이 | 14.741.0.1 | 7.41 | ◯ |
 | [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 | 1.0.0.14 | 7.41 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.3.0.1 | 7.5 | ◯ |
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 | 0.0.0.143 | 7.5 | ◯ |
