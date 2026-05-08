@@ -847,7 +847,7 @@
         "Author": "fmauNeko",
         "Name": "Market board",
         "InternalName": "MarketBoardPlugin",
-        "AssemblyVersion": "1.13.0.0",
+        "AssemblyVersion": "1.13.0.1",
         "TestingAssemblyVersion": "",
         "Punchline": "어디서든 장터 게시판을 둘러봐요.",
         "Description": "어디서든 장터 게시판을 둘러봐요.",
