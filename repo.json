@@ -842,5 +842,36 @@
         "DownloadLinkTesting": "",
         "Changelog": "",
         "TestingChangelog": ""
+    },
+    {
+        "Author": "fmauNeko",
+        "Name": "Market board",
+        "InternalName": "MarketBoardPlugin",
+        "AssemblyVersion": "1.13.0.0",
+        "TestingAssemblyVersion": "",
+        "Punchline": "어디서든 장터 게시판을 둘러봐요.",
+        "Description": "어디서든 장터 게시판을 둘러봐요.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/fmauNeko/MarketBoardPlugin",
+        "Tags": [
+            "market",
+            "board",
+            "marketboard",
+            "market board"
+        ],
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "DownloadCount": 0,
+        "IconUrl": "https://raw.githubusercontent.com/fmauNeko/MarketBoardPlugin/main/images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/MarketBoardPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/MarketBoardPlugin/latest.zip",
+        "DownloadLinkTesting": "",
+        "Changelog": "",
+        "TestingChangelog": ""
     }
 ]
