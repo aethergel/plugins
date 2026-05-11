@@ -46,4 +46,4 @@
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 | 0.0.0.143 | 7.5 | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 | 1.2.3.2 | 7.5 | ◯ |
 | [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 | 1.11.3.0 | 7.45 | ◯ |
-| [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 9.2 | 7.41 | ◯ |
+| [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 9.4 | 7.5 | ◯ |
