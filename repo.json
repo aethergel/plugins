@@ -934,7 +934,7 @@
         "LoadPriority": 0,
         "AcceptsFeedback": true,
         "DownloadCount": 0,
-        "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/Dalamud.FullscreenCutscenes/images//icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/Dalamud.FullscreenCutscenes/images/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/FullscreenCutscenes/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/FullscreenCutscenes/latest.zip",
         "DownloadLinkTesting": "",
