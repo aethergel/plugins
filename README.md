@@ -26,6 +26,7 @@
 | [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 | 0.2.2.7 | 7.41 | ◯ |
 | [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 | 2.4.2.3 | 7.41 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.4.0 | 7.5 | ◯ |
+| [FullscreenCutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | 울트라와이드 모니터의 영상에서 레터박스 제거 | 1.0.0.8 | 7.5 | ◯ |
 | [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41 | ◯ |
 | [HuntTrainAssistant](https://github.com/NightmareXIV/HuntTrainAssistant) | 마물런 도우미 | 1.0.2.15 | 7.5 | ◯ |
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
