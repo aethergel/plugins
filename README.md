@@ -12,38 +12,38 @@
 
 [리포 관리자에게 후원](https://www.patreon.com/c/aethergel/membership)
 
-| 이름 | 설명 |     버전      | 게임 | 한글 |
-| ------------- | ------------- |:-----------:| :---: | :---: |
-| [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 |  2.1.0.10   | 7.41 | ◯ |
-| [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 |  1.15.0.1   | 7.5 | △ |
-| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 |  4.0.4.50   | 7.41 | △ |
-| [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 도우미 |   4.6.0.8   | 7.5 | △ |
-| [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 |   1.7.3.1   | 7.5 | ◯ |
-| [BypassEmote](https://github.com/Aspher0/BypassEmote) | 감정표현 잠금해제 |   1.7.4.0   | 7.5 | ◯ |
-| [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 |   2.1.1.2   | 7.5 | ◯ |
-| [CBT](https://github.com/Jaksuhn/ffxiv-bundleoftweaks) | 편의 기능 | 69.138.0.0  | 7.41 | ✕ |
-| [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 |   0.0.13    | 7.41 | ◯ |
-| [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 |   0.2.2.7   | 7.41 | ◯ |
-| [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 |   2.4.2.3   | 7.41 | ◯ |
-| [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 |   1.0.5.2   | 7.5 | ◯ |
-| [FullscreenCutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | 울트라와이드 모니터의 영상에서 레터박스 제거 |   1.0.0.8   | 7.5 | ◯ |
-| [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 |   2.8.0.0   | 7.41 | ◯ |
-| [HuntTrainAssistant](https://github.com/NightmareXIV/HuntTrainAssistant) | 마물런 도우미 |  1.0.2.15   | 7.5 | ◯ |
-| [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 |   1.3.6.0   | 7.41 | ◯ |
-| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 |  0.0.76.24  | 7.45 | ◯ |
+| 이름 | 설명 |     버전      |  게임   | 한글 |
+| ------------- | ------------- |:-----------:|:-----:| :---: |
+| [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 |  2.1.0.10   | 7.41  | ◯ |
+| [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 |  1.15.0.1   |  7.5  | △ |
+| [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 |  4.0.4.50   | 7.41  | △ |
+| [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 도우미 |   4.6.0.8   |  7.5  | △ |
+| [BDTH](https://github.com/LeonBlade/BDTHPlugin) | 하우징 |   1.7.3.1   |  7.5  | ◯ |
+| [BypassEmote](https://github.com/Aspher0/BypassEmote) | 감정표현 잠금해제 |   1.7.4.0   |  7.5  | ◯ |
+| [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 |   2.1.1.2   |  7.5  | ◯ |
+| [CBT](https://github.com/Jaksuhn/ffxiv-bundleoftweaks) | 편의 기능 | 69.138.0.0  | 7.41  | ✕ |
+| [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 |   0.0.13    | 7.41  | ◯ |
+| [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 |   0.2.2.7   | 7.41  | ◯ |
+| [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 |   2.4.2.3   | 7.41  | ◯ |
+| [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 |   1.0.5.2   |  7.5  | ◯ |
+| [FullscreenCutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | 울트라와이드 모니터의 영상에서 레터박스 제거 |   1.0.0.8   |  7.5  | ◯ |
+| [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 |   2.8.0.0   | 7.41  | ◯ |
+| [HuntTrainAssistant](https://github.com/NightmareXIV/HuntTrainAssistant) | 마물런 도우미 |  1.0.2.15   |  7.5  | ◯ |
+| [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 |   1.3.6.0   | 7.41  | ◯ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 |  0.0.76.24  | 7.45  | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 |  2.10.1.0   | 7.45h | ◯ |
-| [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 |  2.14.0.0   | 7.5 | ◯ |
-| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 |   2.5.4.5   | 7.5 | ◯ |
-| [MarketBoardPlugin](https://github.com/fmauNeko/MarketBoardPlugin) | 장터 게시판 |  1.13.0.0   | 7.5 | ◯ |
-| [Marketbuddy](https://github.com/PunishXIV/Marketbuddy) | 장터 출품 도우미 |   0.2.4.2   | 7.5 | ◯ |
-| [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 |   1.0.2.1   | 7.41 | ◯ |
-| [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 마우스 올려 아이템 장터 게시판 가격 확인 |  2.11.5.0   | 7.5 | ◯ |
-| [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 14.206.40.0 | 7.45 | △ |
-| [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 |   1.5.0.0   | 7.5 | ◯ |
-| [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 |   3.0.1.4   | 7.41 | ◯ |
-| [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 |  1.0.0.14   | 7.41 | ◯ |
-| [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 |   3.3.0.1   | 7.5 | ◯ |
-| [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 |  0.0.0.143  | 7.5 | ◯ |
-| [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 |   1.2.3.2   | 7.5 | ◯ |
-| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 |  1.11.3.0   | 7.45 | ◯ |
-| [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 |   9.4.0.0   | 7.5 | ◯ |
+| [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 |  2.14.0.0   |  7.5  | ◯ |
+| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 |   2.5.4.5   |  7.5  | ◯ |
+| [MarketBoardPlugin](https://github.com/fmauNeko/MarketBoardPlugin) | 장터 게시판 |  1.13.0.0   |  7.5  | ◯ |
+| [Marketbuddy](https://github.com/PunishXIV/Marketbuddy) | 장터 출품 도우미 |   0.2.4.2   |  7.5  | ◯ |
+| [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 |   1.0.2.1   | 7.41  | ◯ |
+| [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 마우스 올려 아이템 장터 게시판 가격 확인 |  2.11.5.0   |  7.5  | ◯ |
+| [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 14.206.40.0 | 7.45  | △ |
+| [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 |   1.5.0.0   |  7.5  | ◯ |
+| [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 |   3.0.1.5   |  7.5  | ◯ |
+| [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 |  1.0.0.14   | 7.41  | ◯ |
+| [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 |   3.3.0.1   |  7.5  | ◯ |
+| [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 |  0.0.0.143  |  7.5  | ◯ |
+| [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 |   1.2.3.2   |  7.5  | ◯ |
+| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 |  1.11.3.0   | 7.45  | ◯ |
+| [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 |   9.4.0.0   |  7.5  | ◯ |
