@@ -27,7 +27,7 @@
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Artisan",
         "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.4.50",
+        "AssemblyVersion": "4.0.5.10",
         "TestingAssemblyVersion": "",
         "Punchline": "간단한 제작 플러그인.",
         "Description": "",
@@ -36,8 +36,8 @@
         "Tags": [
             "crafting"
         ],
-        "DalamudApiLevel": 14,
-        "TestingDalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
