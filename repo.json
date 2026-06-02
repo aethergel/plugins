@@ -80,7 +80,7 @@
         "Author": "Ice",
         "Name": "Ice's Cosmic Exploration",
         "InternalName": "ICE",
-        "AssemblyVersion": "0.0.76.24",
+        "AssemblyVersion": "0.0.77.13",
         "TestingAssemblyVersion": "",
         "Punchline": "달의 어두운 면에 오신 것을 환영합니다",
         "Description": "",
@@ -89,8 +89,8 @@
         "Tags": [
             "Gatherers"
         ],
-        "DalamudApiLevel": 14,
-        "TestingDalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
