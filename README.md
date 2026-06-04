@@ -30,7 +30,7 @@
 | [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 |   2.8.0.0   | 7.41  | ◯ |
 | [HuntTrainAssistant](https://github.com/NightmareXIV/HuntTrainAssistant) | 마물런 도우미 |  1.0.2.15   |  7.5  | ◯ |
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 |   1.3.6.0   | 7.41  | ◯ |
-| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 |  0.0.78.1  |  7.5  | ◯ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 |  0.0.78.4   | 7.51  | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 |  2.10.1.0   | 7.45h | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 |  2.14.0.0   |  7.5  | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 |   2.5.4.8   |  7.5  | ◯ |
@@ -45,5 +45,5 @@
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 |   3.3.0.1   |  7.5  | ◯ |
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 |  0.0.0.143  |  7.5  | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 |   1.2.3.2   |  7.5  | ◯ |
-| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 |  1.11.3.0   | 7.45  | ◯ |
+| [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 |  1.11.3.1   |  7.5  | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 |   9.4.0.0   |  7.5  | ◯ |
