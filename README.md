@@ -42,7 +42,7 @@
 | [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 14.206.40.0 | 7.45  | △ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 | 1.5.0.0 | 7.5 | ◯ |
 | [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 3.0.1.5 | 7.5 | ◯ |
-| [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 | 1.0.0.14 | 7.41 | ◯ |
+| [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 | 1.0.0.15 | 7.51 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.3.0.1 | 7.5 | ◯ |
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 | 0.0.0.143 | 7.5 | ◯ |
 | [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 | 1.2.3.2 | 7.5 | ◯ |
