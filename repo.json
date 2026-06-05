@@ -936,5 +936,35 @@
         "DownloadLinkTesting": "",
         "Changelog": "",
         "TestingChangelog": ""
-    }
+    },
+  {
+    "Author": "Anya Hichu",
+    "Name": "DiscordActivityHonorific",
+    "InternalName": "DiscordActivityHonorific",
+    "AssemblyVersion": "0.0.5.0",
+    "TestingAssemblyVersion": "",
+    "Punchline": "Discord 활동 정보를 Honorific에 연동",
+    "Description": "Discord 활동 정보를 기반으로 Honorific 칭호 연동",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
+    "Tags": [
+      "discord",
+      "activity",
+      "honorific"
+    ],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/DiscordActivityHonorific/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/DiscordActivityHonorific/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
+  }
 ]
