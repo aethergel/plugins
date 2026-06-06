@@ -33,7 +33,7 @@
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 |  0.0.78.5   | 7.51  | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.10.1.0 | 7.45h | ◯ |
-| [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.14.0.0 | 7.5 | ◯ |
+| [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.14.0.1 | 7.51 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.8 | 7.5 | ◯ |
 | [MarketBoardPlugin](https://github.com/fmauNeko/MarketBoardPlugin) | 장터 게시판 | 1.13.0.0 | 7.5 | ◯ |
 | [Marketbuddy](https://github.com/PunishXIV/Marketbuddy) | 장터 출품 도우미 | 0.2.4.2 | 7.5 | ◯ |
