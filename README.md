@@ -28,10 +28,10 @@
 | [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 | 2.4.2.3 | 7.41 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.5.3 | 7.5 | ◯ |
 | [FullscreenCutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | 울트라와이드 모니터의 영상에서 레터박스 제거 | 1.0.0.8 | 7.5 | ◯ |
-| [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41  | ◯ |
+| [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41 | ◯ |
 | [HuntTrainAssistant](https://github.com/NightmareXIV/HuntTrainAssistant) | 마물런 도우미 | 1.0.2.15 | 7.5 | ◯ |
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
-| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 |  0.0.78.5   | 7.51  | ◯ |
+| [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 0.0.78.6 | 7.51 | ◯ |
 | [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.10.1.0 | 7.45h | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.14.0.1 | 7.51 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.8 | 7.5 | ◯ |
