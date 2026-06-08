@@ -14,7 +14,6 @@
 
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | --- | --- |:---:|:---:|:---:|
-| [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.10 | 7.41 | ◯ |
 | [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.15.0.7 | 7.51 | △ |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.5.12 | 7.51 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 도우미 | 4.6.0.8 | 7.5 | △ |
@@ -24,7 +23,6 @@
 | [CBT](https://github.com/Jaksuhn/ffxiv-bundleoftweaks) | 편의 기능 | 69.138.0.0 | 7.41 | ✕ |
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.13 | 7.41 | ◯ |
 | [DiscordActivityHonorific](https://github.com/anya-hichu/DiscordActivityHonorific) | Discord 활동 정보 Honorific 연동 | 0.0.5.0 | 7.51 | ◯ |
-| [DozeAnywhere](https://github.com/SoyaX/DozeAnywhere) | 어디에서나 앉고 눕기 | 0.2.2.7 | 7.41 | ◯ |
 | [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 | 2.5.3.0 | 7.51 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.5.3 | 7.5 | ◯ |
 | [FullscreenCutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | 울트라와이드 모니터의 영상에서 레터박스 제거 | 1.0.0.8 | 7.5 | ◯ |
@@ -37,9 +35,8 @@
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.8 | 7.5 | ◯ |
 | [MarketBoardPlugin](https://github.com/fmauNeko/MarketBoardPlugin) | 장터 게시판 | 1.13.0.0 | 7.5 | ◯ |
 | [Marketbuddy](https://github.com/PunishXIV/Marketbuddy) | 장터 출품 도우미 | 0.2.4.2 | 7.5 | ◯ |
-| [NoTypeSay](https://github.com/salanth357/NoTypeSay) | 임무 목록에 /말하기 버튼 추가 | 1.0.2.1 | 7.41 | ◯ |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 마우스 올려 아이템 장터 게시판 가격 확인 | 2.11.5.0 | 7.5 | ◯ |
-| [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 15.297.0.2 | 7.45  | △ |
+| [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 15.297.0.2 | 7.51  | △ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 | 1.5.0.0 | 7.5 | ◯ |
 | [SkipCutscene](https://github.com/KangasZ/SkipCutscene) | '무작위 임무: 주요퀘스트' 컷신 스킵 | 3.0.1.5 | 7.5 | ◯ |
 | [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 | 1.0.0.15 | 7.51 | ◯ |
