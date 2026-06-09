@@ -884,5 +884,39 @@
     "DownloadLinkTesting": "",
     "Changelog": "",
     "TestingChangelog": ""
+  },
+  {
+    "Author": "Ottermandias",
+    "Name": "GatherBuddy",
+    "InternalName": "GatherBuddy",
+    "AssemblyVersion": "3.8.8.0",
+    "TestingAssemblyVersion": "",
+    "Punchline": "채집과 낚시를 손쉽게 만듭니다.",
+    "Description": "노드 위치, 낚시터, 특별한 등장 시간과 날씨 등을 추적하여 채집을 손쉽게 만듭니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
+    "Tags": [
+      "Gathering",
+      "Fishing",
+      "Miner",
+      "Botanist",
+      "Weather",
+      "Alarms",
+      "Timer"
+    ],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GatherBuddy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/GatherBuddy/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
   }
 ]
