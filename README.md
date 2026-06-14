@@ -43,6 +43,6 @@
 | [Stylist](https://github.com/NightmareXIV/Stylist) | 장비 매니저 | 1.0.0.15 | 7.51 | ◯ |
 | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | 컷신, 대화문 스킵, 퀘스트 스피드러닝 | 3.3.0.1 | 7.5 | ◯ |
 | [visland](https://github.com/awgil/ffxiv_visland) | 무인도 도우미 | 0.0.0.143 | 7.5 | ◯ |
-| [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 | 1.2.3.2 | 7.5 | ◯ |
+| [vnavmesh](https://github.com/awgil/ffxiv_navmesh) | 경로 찾기 | 1.2.3.5 | 7.51 | ◯ |
 | [Wholist](https://github.com/Blooym/Wholist) | 근처 플레이어 표시 | 1.11.3.1 | 7.5 | ◯ |
 | [Workshoppa](https://git.carvel.li/liza/Workshoppa) | 더 나은 지하공방 납품 | 9.4.0.0 | 7.5 | ◯ |
