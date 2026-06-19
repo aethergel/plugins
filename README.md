@@ -24,7 +24,7 @@
 | [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.13 | 7.41 | ◯ |
 | [DiscordActivityHonorific](https://github.com/anya-hichu/DiscordActivityHonorific) | Discord 활동 정보 Honorific 연동 | 0.0.5.0 | 7.51 | ◯ |
 | [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 | 2.5.3.0 | 7.51 | ◯ |
-| [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.5.3 | 7.5 | ◯ |
+| [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.5.4 | 7.51 | ◯ |
 | [FullscreenCutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | 울트라와이드 모니터의 영상에서 레터박스 제거 | 1.0.0.8 | 7.5 | ◯ |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | 채집 도우미 | 3.8.8.0 | 7.51 | △ |
 | [GearsetHelper..](https://github.com/KhloeLeclair/GearsetHelperPlugin) | 장비세트 도우미 | 2.8.0.0 | 7.41 | ◯ |
