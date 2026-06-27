@@ -36,6 +36,7 @@
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.8 | 7.5 | ◯ |
 | [MarketBoardPlugin](https://github.com/fmauNeko/MarketBoardPlugin) | 장터 게시판 | 1.13.0.0 | 7.5 | ◯ |
 | [Marketbuddy](https://github.com/PunishXIV/Marketbuddy) | 장터 출품 도우미 | 0.2.4.2 | 7.5 | ◯ |
+| [PatMeHonorific](https://github.com/anya-hichu/PatMeHonorific) | 감정표현 횟수 칭호로 표시 | 0.0.7.0 | 7.51 | ◯ |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 마우스 올려 아이템 장터 게시판 가격 확인 | 2.11.5.0 | 7.5 | ◯ |
 | [Questionable](https://github.com/PunishXIV/Questionable) | 퀘스트 도우미 | 15.297.0.2 | 7.51  | △ |
 | [Saucy](https://github.com/PunishXIV/Saucy) | 골드소서 미니게임 도우미 | 1.5.0.0 | 7.5 | ◯ |

@@ -918,5 +918,35 @@
     "DownloadLinkTesting": "",
     "Changelog": "",
     "TestingChangelog": ""
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "PatMeHonorific",
+    "InternalName": "PatMeHonorific",
+    "AssemblyVersion": "0.0.7.0",
+    "TestingAssemblyVersion": "",
+    "Punchline": "감정표현 횟수를 칭호로 표시하세요",
+    "Description": "감정표현 횟수를 Honorific 칭호로 표시합니다.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
+    "Tags": [
+      "emote",
+      "plugin",
+      "honorific"
+    ],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PatMeHonorific/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/PatMeHonorific/latest.zip",
+    "DownloadLinkTesting": "",
+    "Changelog": "",
+    "TestingChangelog": ""
   }
 ]
