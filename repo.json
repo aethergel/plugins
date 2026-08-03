@@ -3,7 +3,7 @@
         "Author": "maributt",
         "Name": "fps limiter",
         "InternalName": "fpslimiter",
-        "AssemblyVersion": "1.0.5.5",
+        "AssemblyVersion": "1.0.5.6",
         "TestingAssemblyVersion": "",
         "Punchline": "",
         "Description": "프레임을 제한하세요",
@@ -21,7 +21,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aethergel/plugins/main/bin/fpslimiter/latest.zip",
         "DownloadLinkTesting": "",
-        "Changelog": ""
+        "Changelog": "'절전 모드'의 '우주 개척' 옵션 '추가 지역'으로 변경"
     },
     {
         "Author": "Taurenkey (Puni.sh)",
