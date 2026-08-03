@@ -22,7 +22,6 @@
 | [BypassEmote](https://github.com/Aspher0/BypassEmote) | 감정표현 잠금해제 | 1.7.4.0 | 7.5 | ◯ |
 | [Cammy](https://github.com/UnknownX7/Cammy) | 카메라 편집기 | 2.1.1.2 | 7.5 | ◯ |
 | [CBT](https://github.com/Jaksuhn/ffxiv-bundleoftweaks) | 편의 기능 | 69.138.0.0 | 7.41 | ✕ |
-| [Collector's Anxiety](https://github.com/foophoof/CollectorsAnxiety) | 수집품 트래커 | 0.0.13 | 7.41 | ◯ |
 | [DiscordActivityHonorific](https://github.com/anya-hichu/DiscordActivityHonorific) | Discord 활동 정보 Honorific 연동 | 0.0.5.1 | 7.51 | ◯ |
 | [FFLogsViewer](https://github.com/Aireil/FFLogsViewer) | FF Logs 확인 | 2.5.3.0 | 7.51 | ◯ |
 | [fps limiter](https://github.com/maributt/fpslimiter) | fps 제한 | 1.0.5.6 | 7.55 | ◯ |
@@ -32,7 +31,6 @@
 | [HuntTrainAssistant](https://github.com/NightmareXIV/HuntTrainAssistant) | 마물런 도우미 | 1.0.2.15 | 7.5 | ◯ |
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 1.0.0.0 | 7.51 | ◯ |
-| [IINACT](https://github.com/marzent/IINACT) | 파서 | 2.10.1.0 | 7.45h | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.14.0.1 | 7.51 | ◯ |
 | [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.14 | 7.5 | ◯ |
 | [MarketBoardPlugin](https://github.com/fmauNeko/MarketBoardPlugin) | 장터 게시판 | 1.13.0.0 | 7.5 | ◯ |
