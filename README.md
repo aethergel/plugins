@@ -32,7 +32,7 @@
 | [Hunty](https://github.com/Infiziert90/Hunty) | 토벌수첩 도우미 | 1.3.6.0 | 7.41 | ◯ |
 | [ICE](https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration) | 우주 개척 | 1.0.0.0 | 7.51 | ◯ |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 상인 위치 표시 | 2.14.0.1 | 7.51 | ◯ |
-| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.14 | 7.5 | ◯ |
+| [Lifestream](https://github.com/NightmareXIV/Lifestream) | 서버 여행과 텔레포를 간편하게 | 2.5.4.23 | 7.56 | ◯ |
 | [MarketBoardPlugin](https://github.com/fmauNeko/MarketBoardPlugin) | 장터 게시판 | 1.13.0.0 | 7.5 | ◯ |
 | [Marketbuddy](https://github.com/PunishXIV/Marketbuddy) | 장터 출품 도우미 | 0.2.4.2 | 7.5 | ◯ |
 | [PatMeHonorific](https://github.com/anya-hichu/PatMeHonorific) | 감정표현 횟수 칭호로 표시 | 0.0.7.0 | 7.51 | ◯ |
