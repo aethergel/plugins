@@ -14,7 +14,7 @@
 
 | 이름 | 설명 | 버전 | 게임 | 한글 |
 | --- | --- |:---:|:---:|:---:|
-| [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.15.0.7 | 7.51 | △ |
+| [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 아이템 보유 상황 추적 & 다수 기능 | 1.15.0.13 | 7.56 | △ |
 | [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) | 자리비움 방지 | 2.1.0.11 | 7.51 | ◯ |
 | [Artisan](https://github.com/PunishXIV/Artisan) | 올인원 제작 | 4.0.5.15 | 7.51 | △ |
 | [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) | 집사 도우미 | 4.6.0.8 | 7.5 | △ |
