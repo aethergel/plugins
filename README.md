@@ -8,7 +8,9 @@
 > [!NOTE] 
 > 아래 표의 버전은 기반으로 하는 원본 플러그인의 버전입니다.
 
-이 리포에 넣을 모든 플러그인의 한글화를 희망하고 있으나 귀찮음으로 인해 이루어지지 않을 확률이 높습니다.
+> 번역에 기여한 항목 - [Questionable](https://github.com/PunishXIV/Questionable) / [Sonar](https://github.com/FFXIV-Sonar/SonarRepo)
+
+이 리포에 넣을 모든 플러그인의 한글화를 희망하고 있으나 이루어지지 않을 확률이 높습니다.
 
 [리포 관리자에게 후원](https://www.patreon.com/c/aethergel/membership)
 
